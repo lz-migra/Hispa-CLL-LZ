@@ -23,8 +23,6 @@
 
 
 > [!Consultas agente]
-
-> [!NOTE]
 > ### Lookerstudio
 > https://lookerstudio.google.com/u/0/reporting/c21a32cd-20b9-43d1-8966-ed880f8a8564/page/p_9mw24spkod
 > 
