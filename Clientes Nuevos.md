@@ -86,7 +86,7 @@ Llamada de Bienvenida - Cliente nuevo. Se deja buzón de voz
 
 Cuballama te trae una OFERTA ESPECIAL, no estará disponible por mucho tiempo. Descubre los beneficios llamando al +17864086400
 
-
+---
 # **Guion de Venta - Cliente Nuevo Cuballama**
 
 ## **<center>Inicio de la llamada:</center>**
