@@ -1,0 +1,1 @@
+tarjetas repetidas Visa 473702******8342
