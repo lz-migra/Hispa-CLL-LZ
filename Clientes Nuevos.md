@@ -14,79 +14,6 @@ _Buenas tardes, le contactamos de Cuballama para darle a conocer un beneficio es
 > <font color="#c00000">**Llamada de bienvenida - Cliente nuevo** </font> 
 > Si le brindamos la información al cliente
 > ---
-
-> [! ]
-> ### <center>Speech Clientes Nuevos</center>
-> 
-> 
-> * Agradecemos su registro y le damos la bienvenida a Cuballama. Le informamos que por ser cliente nuevo recibió el beneficio de nuestro Welcome Pack, por el cual se le otorgará el 100% del Cashback en la primera compra que realice en los siguientes servicios, hasta completar un máximo de $100
-> ---
-> * Los servicios que aplican son: Recarga Celular a Cuba o internacional, Recarga Nauta, Cuballama Mercado, Cuballama envíos
-> ---
-> * Recuerde esto aplica una única vez por servicio
->   Y aplica dentro de los primeros 30 días desde su registro 
-
-
-**Guion de Venta - Cliente Nuevo Cuballama**
-
-**<center>Inicio de la llamada:</center>** 
-"Hola, muy buenas [<font color="#548dd4">tardes/días</font>] [Nombre del Cliente]. Mi nombre es [<font color="#0070c0">Tu Nombre</font>] y le hablo de Cuballama. ¡Es un placer saludarle! Antes que nada, queremos agradecerle por registrarse con nosotros y le damos la bienvenida a Cuballama. "
-
-**<center>Beneficio exclusivo para nuevos clientes:</center>** 
-"[<font color="#0070c0">Nombre del Cliente</font>], queremos informarle que por ser un cliente nuevo, ha recibido el beneficio de nuestro **WelcomePack**. nuestro regalo para clientes nuevos. Con este beneficio, se le otorgará el **100% de Cashback** en la **primera compra** que haga en algunos de nuestros servicios, hasta un máximo de $100 en saldo de cuballama. los servicios que aplicarían son:"
-
-- Recarga Celular a Cuba o internacional
-- Recarga Nauta
-- Cuballama Mercado
-- Cuballama Envíos
-La verdad seria una oportunidad perfecta para probar cualquiera de estos servicios sin preocuparse por el costo inicial."
-
-" Y recuerde este beneficio aplica **una única vez por servicio** y está disponible para usted **durante los primeros 30 días desde su registro**.
-
- También queremos preguntarle ¿Qué servicio lo motivó a registrarse con nosotros?"
- 
-
-
-(Aprovechar de dar el speech de mercado o envió)
-
-**Cierre:** 
-
-"Queremos asegurarnos de que aproveche al máximo este beneficio exclusivo que se le otorgo por ser cliente nuevo. Podemos procesar su primera compra ahora mismo para que comience a disfrutar de su Cashback.
-
-(Manejar objeciones si es necesario)
-
----
-
-> [!NOTE]
-> **Manejo de objeciones comunes:**
-> 
-> - **"Quiero probar más adelante"** → "Por supuesto, [Nombre del Cliente], lo importante es que se sienta seguro con nosotros. Solo quiero recordarle que este beneficio tiene una vigencia de **30 días desde su registro**, y nos encantaría que lo aproveche antes de que expire."
-> ---
-> - **"No necesito estos servicios en este momento"** → "Entiendo, [Nombre del Cliente]. Sin embargo, este beneficio solo está disponible por **30 días**, y le permitirá ahorrar en futuras compras. Podemos dejarlo listo ahora para que lo aproveche cuando lo necesite."
-
----
-**<center>Confirmación y cierre final:</center>**
-
-"Entonces, [<font color="#0070c0">Nombre del Cliente</font>], ¿Realizamos su primera compra en **Recarga Celular, Recarga Nauta, Cuballama Mercado o Envíos** para que aproveche su Cashback del 100%?"
-
-(Proceder con la compra o programar una llamada de seguimiento)
-
-"Le agradezco mucho su tiempo.
-
-[<font color="#0070c0">Nombre del Cliente</font>] si lo desea, podríamos enviarle de vez en cuando nuestras ofertas seleccionadas para usted, así siempre estará al tanto de las mejores oportunidades que le podemos ofrecer. 
-
-Si tiene alguna pregunta o necesita ayuda en el futuro, estamos aquí para servirle. ¡Bienvenido a Cuballama y que tenga un excelente día!"
-
-_Buenas tardes, le contactamos de Cuballama para darle a conocer un beneficio especial que tiene con nosotros, la invitación es para que se comunique con nosotros a la brevedad y ofrecerle más detalles, le aseguro que le va a interesar, que tenga un feliz día_
-
-Se contacta por campaña saliente de Fidelización Remesas 2025
-Se contacta por campaña saliente de Fidelización Remesas 0%FEE
-Llamada de Bienvenida - Cliente nuevo
-Llamada de Bienvenida - Cliente nuevo. Se deja buzón de voz
-
-Cuballama te trae una OFERTA ESPECIAL, no estará disponible por mucho tiempo. Descubre los beneficios llamando al +17864086400
-
----
 # **Guion de Venta - Cliente Nuevo Cuballama**
 
 ## **<center>Inicio de la llamada:</center>**
@@ -134,6 +61,7 @@ _"Queremos asegurarnos de que aproveche al máximo este beneficio exclusivo que 
 > 
 > 🔹 **"Quiero probar más adelante"** → _"Por supuesto, [Nombre del Cliente], lo importante es que se sienta seguro con nosotros. Solo quiero recordarle que este beneficio tiene una vigencia de **30 días desde su registro**, y nos encantaría que lo aproveche antes de que expire."_
 > 
+> ---
 > 🔹 **"No necesito estos servicios en este momento"** → _"Entiendo, [Nombre del Cliente]. Sin embargo, este beneficio solo está disponible por **30 días**, y le permitirá ahorrar en futuras compras. Podemos dejarlo listo ahora para que lo aproveche cuando lo necesite."_
 > 
 
