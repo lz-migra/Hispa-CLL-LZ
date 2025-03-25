@@ -62,5 +62,3 @@ Si tiene alguna pregunta o necesita que le asistamos en el futuro, estamos aquí
 
 ---
 _Buenas tardes, le contactamos de Cuballama para darle a conocer un beneficio especial que tiene con nosotros, la invitación es para que se comunique con nosotros a la brevedad y ofrecerle más detalles, le aseguro que le va a interesar, que tenga un feliz día_
-
-# 1853740 31/03 11AM
