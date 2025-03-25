@@ -104,10 +104,3 @@ https://www.cuballama.com/envios/admin/orders/details/244196 - Error Sys
 https://www.cuballama.com/envios/admin/orders/details/243161 - Eva TAF
 
 https://www.cuballama.com/envios/admin/orders/details/248066  - Pedro
-
-Por esta vía, se podrán enviar Baterías de Litio o Estaciones de energía
-(Productos que sean la batería sola)
-Solo las que sean MENORES a 60lb
-
-Problema con correo CRM Envíos
-cobawendy0@gmail.com - lapikywendy@gmail.com
