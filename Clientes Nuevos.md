@@ -36,14 +36,21 @@ Con este beneficio, se le otorgará el **100% de Cashback** en la **primera comp
 
 ### **Los servicios que aplican para este beneficio son:**
 
+---
 ✅ **Recarga Celular a Cuba o internacional**
 https://www.cuballama.com/recargas-a-cuba/
+
 ---
 ✅ **Recarga Nauta**  
+
+---
 ✅ **Cuballama Mercado** Que le permite enviar alimentos crudos y cocinados, ferretería, electrodomésticos e incluso medicamentos. ¡En algunos casos, la entrega puede ser el mismo día!
 https://www.cuballama.com/mercado/inicio
+
+---
 ✅ **Cuballama Envíos:** Servicio de paquetería con entregas a todas las provincias, directo al domicilio. Además, **mientras más libras envíe, más económico será el precio**.
 
+---
 
 _"Esta es una gran oportunidad para probar cualquiera de estos servicios sin preocuparse por el costo inicial."_
 
