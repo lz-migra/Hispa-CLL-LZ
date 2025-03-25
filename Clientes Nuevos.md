@@ -49,17 +49,20 @@ https://www.cuballama.com/mercado/inicio
 
 ---
 ✅ **Cuballama Envíos:** Servicio de paquetería con entregas a todas las provincias, directo al domicilio. Además, **mientras más libras envíe, más económico será el precio**.
+https://www.cuballama.com/envios/
 
 ---
 
-_"Esta es una gran oportunidad para probar cualquiera de estos servicios sin preocuparse por el costo inicial."_
 
-📌 **Importante:** Este beneficio **se puede utilizar una única vez por servicio** y está disponible por **30 días desde su registro**.
+#### 📌**Importante:** Este beneficio **se puede utilizar una única vez por servicio** y está disponible por **30 días desde su registro**.
 
 Además, queremos saber:
+
 - ¿Qué lo motivo a registrarse con nosotros, algún servicio en especial?
 - ¿Cómo supo de nuestra compañía?
-- ¿q
+- ¿Qué le comentaron de nosotros?
+- ¿Qué le a gustado mas de lo que le he mencionado?
+
 (Aprovechar para dar más detalles sobre **Mercado o Envíos** si el cliente muestra interés).
 
 ---
