@@ -56,9 +56,10 @@ _"Esta es una gran oportunidad para probar cualquiera de estos servicios sin pre
 
 📌 **Importante:** Este beneficio **se puede utilizar una única vez por servicio** y está disponible por **30 días desde su registro**.
 
-Además, queremos saber:  
-**¿Qué servicio lo motivó a registrarse con nosotros?**
-
+Además, queremos saber:
+- ¿Qué lo motivo a registrarse con nosotros, algún servicio en especial?
+- ¿Cómo supo de nuestra compañía?
+- ¿q
 (Aprovechar para dar más detalles sobre **Mercado o Envíos** si el cliente muestra interés).
 
 ---
