@@ -89,9 +89,6 @@ Hola sabemos que se comunico con nosotros porque su familiar en cuba le indico q
 https://www.cuballama.com/envios/admin/orders/details/223239 - Justo
 (Moto eléctrica Mishozuki 70AH NEW PRO 2024 Morado Perla)
 
-
-https://www.cuballama.com/envios/admin/orders/details/243516 - 
-
 https://www.cuballama.com/envios/admin/orders/details/227397 - Georgina
 
 https://www.cuballama.com/envios/admin/orders/details/243879 - Yus
