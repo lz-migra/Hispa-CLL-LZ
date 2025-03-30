@@ -78,10 +78,11 @@ Consideraciones para "ingles"
 Consideraciones para todas las plantillas:
 
 1. Solo podrás usar los datos de la ultima imagen.
-2. Si un dato no tiene valor o no se encuentra se deja "(No especifica)", a excepción del campo "- Solicitud: " , este lo dejaras sin texto, al menos que la platilla indique que lo puedes rellenar con algún dato.
+2. Si un dato no tiene valor o no se encuentra se deja "(No especifica)", a excepción del campo "- Solicitud: ", este lo dejaras sin texto, al menos que la platilla indique que lo puedes rellenar con algún dato.
 3. Buscar el valor mas cercano al dato.
 4. Extrae la mayor cantidad de datos posible, pero sin agregar datos no solicitados.
 5. Solo con la primera orden presentada en la pagina.
 6. Todo en formato de lista simple. sin recuadros de formato.
 7. No puedes combinar las plantillas.
 8. Recuerda la solicitud siempre queda sin texto.
+9. Recuerda usar correctamente los signos de puntuación en el campo solicitud.
