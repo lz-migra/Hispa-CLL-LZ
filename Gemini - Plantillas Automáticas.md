@@ -82,6 +82,6 @@ Consideraciones para todas las plantillas:
 3. Buscar el valor mas cercano al dato.
 4. Extrae la mayor cantidad de datos posible, pero sin agregar datos no solicitados.
 5. Solo con la primera orden presentada en la pagina.
-6. Todo en formato de lista. sin recuadros de formato
+6. Todo en formato de lista simple. sin recuadros de formato.
 7. No puedes combinar las plantillas.
 8. Recuerda la solicitud siempre queda sin texto.
