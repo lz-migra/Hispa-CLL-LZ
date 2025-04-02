@@ -27,9 +27,9 @@ Generación de urgencia y Descubrimiento de necesidades:</center>**
 
 **<center>Presentación de la oferta:</center>**
 
-"[<font color="#548dd4">Nombre del Cliente</font>], queremos que sepa que usted **muy importante para nosotros** y como hemos visto que ha usado nuestros servicios anteriormente, el día de hoy ha quedado seleccionado para recibir un beneficio especial en nuestro servicio de remesas. Le comento en su **primera remesa hecha con nosotros, no pagará comisión**, por lo que podrá enviarle dinero a sus seres queridos y que puede ayudarlos sin tener que pagar un adicional por este. Por lo general este servicio tiene un recargo del 15%, por lo que es una gran oportunidad para que aproveche el servicio, ¿cierto?.
+"[<font color="#548dd4">Nombre del Cliente</font>], queremos que sepa que usted **muy importante para nosotros** y como hemos visto que ha usado nuestros servicios anteriormente, el día de hoy ha quedado seleccionado para recibir un beneficio especial en nuestro servicio de remesas. Le comento en su **primera remesa hecha con nosotros, no pagará comisión**, por lo que podrá enviarle dinero a sus seres queridos y poder ayudarlos sin tener que pagar un adicional por este. Por lo general este servicio tiene un recargo del 15%, por lo que es una gran oportunidad para que aproveche el servicio, ¿cierto?.
 
-"Además, contamos con múltiples opciones de entrega en Cuba, incluyendo entrega a domicilio en efectivo y transferencia a tarjetas MLC, con tiempos de entrega rápidos y garantizados. Sobre todo garantizados, recuerde que somos una compañía grande y podemos asegurarle la entrega"
+"Además, contamos con múltiples opciones de entrega en Cuba, de hecho para "La Habana" podemos hacerle llegar a sus seres queridos
 
 **<center>Cierre:</center>**
 
