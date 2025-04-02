@@ -29,9 +29,9 @@ Generación de urgencia y Descubrimiento de necesidades:</center>**
 
 "[<font color="#548dd4">Nombre del Cliente</font>], queremos que sepa que usted **muy importante para nosotros** y como hemos visto que ha usado nuestros servicios anteriormente, el día de hoy ha quedado seleccionado para recibir un beneficio especial en nuestro servicio de remesas. Le comento en su **primera remesa hecha con nosotros, no pagará comisión**, por lo que podrá enviarle dinero a sus seres queridos y poder ayudarlos sin tener que pagar un adicional por este. Por lo general este servicio tiene un recargo del 15%, por lo que es una gran oportunidad para que aproveche el servicio, ¿cierto?.
 
-"Además, contamos con múltiples opciones de entrega en Cuba, de hecho para "La Habana" podemos hacerle llegar a sus seres queridos USD o CUP o incluso a MLC, las opciones en efectivo se entregan de efectivo
+"Además, contamos con múltiples opciones de entrega en Cuba, de hecho para "La Habana" podemos hacerle llegar a sus seres queridos, efectivo de USD o CUP, o incluso a MLC, las opciones en efectivo se entregan directamente en el domicilio por lo que ellos en cuba no se tiene que movilizar para poder recibir el beneficio."
 
-
+A quien le podríamos enviar la remesa para aprovechar este beneficio.
 **<center>Cierre:</center>**
 
 "[<font color="#548dd4">Nombre del Cliente</font>], por eso le brindamos esta oportunidad única. Podemos enviar a tarjetas MLC desde 50 hasta 10.000 dólares o 100 a 1000 en efectivo a domicilio. Y podríamos procesar una remesa ahora mismo para que su familiar reciba el dinero lo antes posible."
