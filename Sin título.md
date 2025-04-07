@@ -4,7 +4,8 @@
 
 {click: selector=.main-content .collapsed; maxdelay=+6s}{click: selector=#noanim-tab-customers-tab-campaign}{wait: delay=+1s}
 
-{if: clipboard == "0%FEE"}
+{if: 0%FEE == #noanim-tab-customers-pane-campaign > div > table > tbody > tr:nth-child(1) > td:nth-child(3)}
+
   {click: selector=.special-button}  {note}Ejecutando alternativa{endnote}
 {else}
   {click: selector=.btn-social}{click: selector=#accordion-custom .btn-info}{wait: delay=+0.5s}{click: selector=#accordion-custom .btn-info}
