@@ -16,3 +16,5 @@
 {endif}
 
 ﻿﻿{site: path; trim=yes; selector=#noanim-tab-customers-pane-campaign > div > table > tbody > tr:nth-child(1) > td:nth-child(3)}
+﻿﻿
+﻿﻿﻿{site: text; trim=yes; selector=.text-success:nth-child(1) > :nth-child(3); page=https://crm2-soporte.cuballama.com/*}﻿
