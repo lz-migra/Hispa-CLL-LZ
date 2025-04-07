@@ -14,3 +14,5 @@
 
   {click: selector=.btn-social}{click: selector=#accordion-custom .btn-info}{wait: delay=+0.5s}{click: selector=#accordion-custom .btn-info}
 {endif}
+
+﻿﻿{site: path; trim=yes; selector=#noanim-tab-customers-pane-campaign > div > table > tbody > tr:nth-child(1) > td:nth-child(3)}
