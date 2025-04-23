@@ -80,3 +80,5 @@ Voy a proceder a comunicar lo con el ÁREA ENCARGADA para que le asistan, permí
 👉🏼 - Fecha de la transacción y monto pagado.
 
 ![[Pasted image 20250311134013.png]]
+
+1304413 30 anorexico
