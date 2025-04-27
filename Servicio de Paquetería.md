@@ -86,6 +86,8 @@
 
 Hola sabemos que se comunico con nosotros porque su familiar en cuba le indico que su "Remesa a tarjeta bancaria MLC" no ha sido entregada, para solventar este inconveniente sólo le pediremos una foto de la consulta de las últimas 10 operaciones desde un cajero automático, donde se vea la fecha y la máscara de la tarjeta de destino.
 
+![[Pasted image 20250427102737.png]]
+
 https://www.cuballama.com/envios/admin/orders/details/223239 - Justo
 (Moto eléctrica Mishozuki 70AH NEW PRO 2024 Morado Perla)
 
