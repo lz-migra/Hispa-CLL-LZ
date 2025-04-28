@@ -1,4 +1,4 @@
-Hola Gemini.
+Hola
 
 Ayúdame a llenar unas plantillas con los datos de las imágenes que te voy a ir pasando 
 
