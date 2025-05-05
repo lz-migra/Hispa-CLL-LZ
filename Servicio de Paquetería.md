@@ -112,3 +112,5 @@ https://www.cuballama.com/envios/admin/orders/details/275151 - Aleida Compra de 
 https://www.cuballama.com/envios/admin/orders/details/267014 - Anisley reclamo fuera de tiempo
 
 https://www.cuballama.com/envios/admin/orders/details/277156 - Cancelación
+
+https://www.cuballama.com/envios/admin/orders/details/273657 - Cancelación
