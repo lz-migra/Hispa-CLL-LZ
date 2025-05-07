@@ -1,9 +1,9 @@
-**¡Buenos días! Mi nombre es<font color="#0070c0"> [Tu Nombre]</font>, le llamamos de Cuballama. ¿Tengo el gusto de hablar con <font color="#0070c0">[Nombre del Cliente]</font>?**  
+**¡Buenos días! Mi nombre es<font color="#0070c0"> [Tu Nombre]</font>, le llamamos de Cuballama. ¿Con quien tengo el gusto de hablar?**  
 _(Esperar confirmación)_
 
-¡<font color="#0070c0">[Nombre del Cliente]</font>!, imagino lo especial que es el **Día de las Madres** para usted y su familia en Cuba.
+¡<font color="#0070c0">[Nombre del Cliente]</font>!, imaginamos lo especial que es el **Día de las Madres** para usted y su familia en Cuba.
 
-¿Le gustaría hacerles llegar una alegría en esta fecha tan significativa?
+¿Le gustaría hacerles llegar un detalle en esta fecha tan significativa a su ser querido?
 
 En **Cuballama Mercado** hemos preparado un **regalo exclusivo para usted**:
 
