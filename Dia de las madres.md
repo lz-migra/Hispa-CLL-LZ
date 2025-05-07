@@ -7,10 +7,10 @@ _(Esperar confirmación)_
 
 En **Cuballama Mercado** hemos preparado un **regalo exclusivo para usted**:
 
-🎁 ** Para10% de descuento** sobre el monto total de su compra de mercado  
-🚚 **Envío gratis** — ¡le exoneramos completamente el costo del delivery!
+🎁 **Un 10% de descuento** sobre el monto total de su compra de mercado  
+🚚 ** y en esta ocasión el Envío gratis** — ¡le exoneramos completamente el costo del delivery!
 
-¿No le parece maravilloso? Así podrá enviar ese **detalle especial que su familia se merece** sin preocuparse por costos adicionales.
+¿No le parece maravilloso? Así podrá enviar ese **detalle especial que su familiar se merece** sin preocuparse por costos adicionales.
 
 Además, **olvídese de complicaciones**:  
 Nosotros nos encargamos de entregar **alimentos, medicinas o artículos para el hogar** directamente a la puerta de su familiar.  
