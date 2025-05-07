@@ -1,4 +1,4 @@
-**¡Buenos días! Mi nombre es<font color="#0070c0"> [Tu Nombre]</font>, le llamo de Cuballama. ¿Tengo el gusto de hablar con <font color="#0070c0">[Nombre del Cliente]</font>?**  
+**¡Buenos días! Mi nombre es<font color="#0070c0"> [Tu Nombre]</font>, le llamamos de Cuballama. ¿Tengo el gusto de hablar con <font color="#0070c0">[Nombre del Cliente]</font>?**  
 _(Esperar confirmación)_
 
 ¡<font color="#0070c0">[Nombre del Cliente]</font>!, imagino lo especial que es el **Día de las Madres** para usted y su familia en Cuba.
