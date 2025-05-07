@@ -7,7 +7,7 @@ _(Esperar confirmación)_
 
 En **Cuballama Mercado** hemos preparado un **regalo exclusivo para usted**:
 
-🎁 **10% de descuento** sobre el monto total de su compra de mercado  
+🎁 ** Para10% de descuento** sobre el monto total de su compra de mercado  
 🚚 **Envío gratis** — ¡le exoneramos completamente el costo del delivery!
 
 ¿No le parece maravilloso? Así podrá enviar ese **detalle especial que su familia se merece** sin preocuparse por costos adicionales.
@@ -21,3 +21,8 @@ Así evitamos dejarlo para último momento, ya que este beneficio **debe ser hab
 
 Dígame, **¿a quién le gustaría sorprender?**  
 ¿Dónde se encuentra esa persona especial, en La Habana o en otra provincia?
+
+___
+### NOTA:  Al cliente notificarle que este beneficio lo tendrá por un tiempo LIMITADO de 5 DÍAS, "👉
+
+**Speech sugerido:** “Aproveche este beneficio exclusivo lo tendrá por tiempo limitado, durante los siguientes 5 días. Esta es una oportunidad única diseñada para beneficiar a nuestros mejores clientes. No deje pasar esta gran ocasión de enviar de manera rápida y segura”
