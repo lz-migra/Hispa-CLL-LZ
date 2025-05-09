@@ -114,3 +114,5 @@ https://www.cuballama.com/envios/admin/orders/details/267014 - Anisley reclamo f
 https://www.cuballama.com/envios/admin/orders/details/277156 - Cancelación
 
 https://www.cuballama.com/envios/admin/orders/details/273657 - Cancelación
+
+https://www.cuballama.com/envios/admin/orders/details/270453 - Falta de Walmart
