@@ -3,7 +3,7 @@ _(Esperar confirmación)_
 
 ¡<font color="#0070c0">[Nombre del Cliente]</font>!, imaginamos lo especial que es el **Día de las Madres** para usted y su familia en Cuba.
 
-¿Le gustaría hacerles llegar un detalle en esta fecha tan significativa a su ser querido?
+¿No le gustaría hacerles llegar un detalle en esta fecha tan significativa a su ser querido?
 
 En **Cuballama Mercado** hemos preparado un **regalo exclusivo para usted**:
 
