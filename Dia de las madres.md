@@ -1,11 +1,7 @@
 **¡Buenos días! Mi nombre es<font color="#0070c0"> [Tu Nombre]</font>, le llamamos de Cuballama. ¿Con quien tengo el gusto de hablar?**  
 _(Esperar confirmación)_
 
-¡<font color="#0070c0">[Nombre del Cliente]</font>!, imaginamos lo especial que es el **Día de las Madres** para usted y su familia en Cuba.
-
-¿No le gustaría hacerles llegar un detalle en esta fecha tan significativa a su ser querido?
-
-En **Cuballama Mercado** hemos preparado un **regalo exclusivo para usted**:
+En **Cuballama Mercado** por el mes de las madres hemos preparado un **regalo exclusivo para usted**:
 
 🎁 **Un 10% de descuento** sobre el monto total de su compra de mercado  
 🚚 ** y en esta ocasión el Envío gratis** — ¡le exoneramos completamente el costo del delivery!
