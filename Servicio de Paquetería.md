@@ -116,3 +116,5 @@ https://www.cuballama.com/envios/admin/orders/details/277156 - Cancelación
 https://www.cuballama.com/envios/admin/orders/details/273657 - Cancelación
 
 https://www.cuballama.com/envios/admin/orders/details/270453 - Falta de Walmart
+
+https://crm2-soporte.cuballama.com/#/admin/customer-page/1858038 - Es Hija de Loly de Acuba
