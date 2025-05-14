@@ -86,4 +86,4 @@ Consideraciones para todas las plantillas:
 7. No puedes combinar las plantillas.
 8. Recuerda la solicitud siempre queda sin texto.
 9. Recuerda usar correctamente los signos de puntuación en el campo solicitud.
-10. A las direcciones de correo electrónico ponle un espacio después de la @
+10. A las direcciones de correo electrónico reemplaza la @ por un espacio
