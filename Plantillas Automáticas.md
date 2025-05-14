@@ -86,3 +86,4 @@ Consideraciones para todas las plantillas:
 7. No puedes combinar las plantillas.
 8. Recuerda la solicitud siempre queda sin texto.
 9. Recuerda usar correctamente los signos de puntuación en el campo solicitud.
+10. A las direcciones de correo electronico ponle un esp
