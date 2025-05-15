@@ -120,3 +120,5 @@ https://www.cuballama.com/envios/admin/orders/details/270453 - Falta de Walmart
 https://crm2-soporte.cuballama.com/#/admin/customer-page/1858038 - Es Hija de Loly de Acuba
 
 https://www.cuballama.com/envios/admin/orders/details/283161
+
+https://www.cuballama.com/envios/admin/orders/details/283167 verf. tarjeta equiv
