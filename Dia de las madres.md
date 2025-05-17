@@ -3,7 +3,7 @@ _(Esperar confirmación)_
 
 En esta ocasión **Cuballama Mercado** por el mes de las madres hemos preparado un **regalo exclusivo para usted**:
 
-🎁 **Un 10% de descuento** sobre el monto total de su compra de mercado  
+🎁 **Un 10% de descuento** sobre el monto de tarifa de servicio de su compra de mercado  
 🚚 ** y en esta ocasión el Envío gratis** — ¡le exoneramos completamente el costo del delivery!
 
 ¿No le parece maravilloso? Así podrá enviar ese **detalle especial que su familiar se merece** sin preocuparse por costos adicionales.
