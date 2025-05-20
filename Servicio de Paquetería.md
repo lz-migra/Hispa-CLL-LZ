@@ -124,3 +124,5 @@ https://www.cuballama.com/envios/admin/orders/details/283161
 https://www.cuballama.com/envios/admin/orders/details/283167 verf. tarjeta equiv
 
 https://www.cuballama.com/envios/admin/orders/details/253184
+
+https://www.cuballama.com/envios/admin/orders/details/267289
