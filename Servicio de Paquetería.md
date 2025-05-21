@@ -28,7 +28,11 @@
 > 
 
 > [!Florida]
-> ### <font color="#ffff00">Las tiendas de **Florida - Miami** hacen sus envíos al Almacén de Miami en 24 horas.</font>
+> ### <font color="#ffff00">Las tiendas de **Miami** hacen sus envíos al Almacén de Miami en 24 horas. Y la tienda de Tampa </font>
+> Tienda de Tampa, Florida
+> 8314 N Dale Mabry Hwy
+> Tampa, FL 33614
+> Lunes a Domingos: 10:00 am a 08:00 pm.
 > ---
 > Tienda de Hialeah, Florida
 > 1197 W 49th Street
