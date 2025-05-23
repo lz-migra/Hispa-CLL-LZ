@@ -25,6 +25,11 @@ Muy bien (Cliente) Permítame un momento, en este momento vamos a comunicarnos c
 > ### <font color="#92d050">Speech Welcome Pack </font>
 > **Ofreceremos el 100% Cashback en saldo cuballama, hasta un máximo de $100.00 USD para los clientes que realicen compras por primera vez con nosotros. PERO RECUERDE** `Solo ganará Cashback por la primer compra pagada de cada servicio o producto`
 
+___
+
+
+(Nombre del cliente), ¿Sabia que puede apoyar a su familia en Cuba a través de nuestro servicio Cuballama Mercado?. Le ofrecemos En el mes de las Madres: alimentos frescos, medicinas y artículos esenciales para el hogar con entrega directamente en el domicilio de su familiar. Usted puede ahorrar y optar por las ofertas que Cuballama tiene para usted, contamos con ( Se mencionan las ofertas) Si gusta, le puedo ayudar a realizar su compra para que sorprenda a su Familia. ¿A quién desea enviarle? les asisto con mucho gusto…
+
 ---
 > ### <font color="#92d050">Speech Oferta Mercados</font>
 > 
