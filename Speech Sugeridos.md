@@ -32,6 +32,7 @@ ___
 > 
  Puede ahorrar y optar por las ofertas que Cuballama tiene para usted, en este momento contamos con <font color="#ffc000">(Se mencionan las ofertas)</font> Si gusta, le puedo ayudar a realizar su compra para que sorprenda a su Familia. ¿A quién desea enviarle? les asisto con mucho gusto…
 > 
+![[Pasted image 20250524113125.png]]
 ---
 > ### <font color="#92d050">Speech Oferta Mercados</font>
 > 
