@@ -134,3 +134,7 @@ https://www.cuballama.com/envios/admin/orders/details/267289
 https://www.cuballama.com/envios/admin/orders/details/285045
 
 https://www.cuballama.com/envios/admin/orders/details/286031 American Express
+
+
+Nariuska Lambet Mengana
+Poblado el Caney calle Las Tetis sin numero
