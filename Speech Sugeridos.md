@@ -28,7 +28,7 @@ Muy bien (Cliente) Permítame un momento, en este momento vamos a comunicarnos c
 ___
 > ### <font color="#9bbb59">Speech Mercado Dia de las Madres</font>
 > 
-> Antes de finalizar En el mes de las Madres podemos enviar alimentos frescos, medicinas y artículos esenciales para el hogar con entrega directamente en el domicilio de su familiar y en muchos casos las entregas se pueden realizar el mismo día.
+> Ademas En el mes de las Madres podemos enviar alimentos frescos, medicinas y artículos esenciales para el hogar con entrega directamente en el domicilio de su familiar y en muchos casos las entregas se pueden realizar el mismo día.
 > 
  Puede ahorrar y optar por las ofertas en este momento contamos con <font color="#ffc000">(Se mencionan las ofertas)</font> Si gusta, le puedo ayudar a realizar su compra para que sorprenda a su Familia. ¿A quién desea enviarle? les asisto con mucho gusto…
 > 
