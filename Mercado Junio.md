@@ -1,5 +1,9 @@
-¡Hola, muy buenos 
+¡Hola, muy buenas tardes, mi nombre es Lorenzo y le estamos llamando desde Cuballama, como se encuentra la tarde de hoy?
 
+---
+¿Tengo el gusto de hablar con (Nombre Cliente)?
+
+---
 Sabemos que ha usado nuestro servicio Mercado para enviar a La Habana, ¡y por eso queremos darle una gran noticia!
 
 ---
@@ -13,7 +17,7 @@ Sabemos que ha usado nuestro servicio Mercado para enviar a La Habana, ¡y por e
 * **Celulares**
 * ¡Y mucho más!
 
-...Y en ese momento con **precios especiales** por el Día del Padre.
+...Y en este momento con **precios especiales** por el Día del Padre.
 
 Por ejemplo, tenemos **[mencionar 1-2 artículos y precios]**.
 
