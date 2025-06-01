@@ -10,7 +10,7 @@ Sabemos que ha usado nuestro servicio Mercado para enviar a La Habana, ¡y por e
 
 ## ¡Ahora podemos enviar Electrodomésticos desde La Habana y las entregas se esa haciendo en 24 horas! 🚚💨
 
-¿Imagina sorprender a papá con un **electrodoméstico en solo 24 horas**? ¡Sí! Desde **"La Esquina Caliente" en La Habana**, puede enviar:
+¿Sabemos que es el mes de los padres, Imagina sorprender a su papá con un **electrodoméstico en solo 24 horas**?. Desde **"La Esquina Caliente" en La Habana**, puede enviar:
 
 * **Ventiladores**
 * **TVs**
