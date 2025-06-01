@@ -1,4 +1,4 @@
-¡Hola, [Nombre del cliente]! Le habla [Tu Nombre] de Cuballama.
+¡Hola, muy buenos 
 
 Sabemos que ha usado nuestro servicio Mercado para enviar a La Habana, ¡y por eso queremos darle una gran noticia!
 
