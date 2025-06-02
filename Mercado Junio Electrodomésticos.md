@@ -19,7 +19,7 @@ Sabemos que ha usado nuestro servicio Mercado para enviar a La Habana, ¡y por e
 * **Celulares**
 * ¡Y mucho más!
 
-...Y en este momento con **precios especiales** por el Día del Padre.
+...Y en este momento con **precios especiales** por el Día del Padre que solo duran hasta el 4 de junio
 
 Por ejemplo, tenemos
 - Olla reina Silver Home, 6L, 88.99
@@ -28,7 +28,5 @@ Por ejemplo, tenemos
 ---
 
 ### ¡Oferta Exclusiva y Limitada! ⏰
-
-Esta es una oferta exclusiva **solo hasta el 4 de junio**. ¡No la deje para último momento!
 
 ¿Aprovechamos ahora mismo para asegurar ese regalo? Le asisto en su compra o le guío desde la app.
