@@ -22,10 +22,10 @@ Sabemos que ha usado nuestro servicio Mercado para enviar a La Habana, ¡y por e
 ...Y en este momento con **precios especiales** por el Día del Padre que solo duran hasta el 4 de junio
 
 Por ejemplo, tenemos
-- Televisor 32" HD Smart Kodak - 199.99
-- Olla reina Silver Home, 6L - 88.99
-- Cafetera eléctrica de 6 tazas + café La Llave - 59.99
-- Ventilador de pedestal Recargable 16" Solar -  $89.99
+- Televisor 32" Kodak - $199.99
+- Olla Reina Familicasa 6L + Paq. de arroz de regalo - $89.99
+- Cafetera eléctrica de 6 tazas + Café La Llave - 59.99
+- Ventilador Recargable Solar de pedestal  16"  -  $89.99
 
 ---
 
