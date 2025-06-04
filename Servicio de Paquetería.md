@@ -142,3 +142,5 @@ https://www.cuballama.com/envios/admin/orders/details/291875
 https://www.cuballama.com/envios/admin/orders/details/253236
 
 https://www.cuballama.com/envios/admin/orders/details/275214
+
+https://www.cuballama.com/envios/admin/orders/details/284740 - Cambio de dirección orden en aduanas, Anny no escalo
