@@ -11,11 +11,13 @@
 
 > [!Texas]
 > ### <font color="#00b0f0">Las tiendas de **Texas** hacen sus envíos los lunes y llegan el jueves al Almacén de Miami</font>
->Tienda de North Houston, Texas
-15603 W Hardy Rd, Suite 375
-Houston, TX 77060
-Lunes a Domingos: 10:00 am a 08:00 pm.
-___
+> 
+> Tienda de North Houston, Texas
+> 15603 W Hardy Rd, Suite 375
+> Houston, TX 77060
+> Lunes a Domingos: 10:00 am a 08:00 pm.
+> 
+> ---
 > Tienda de Houston, Texas
 > 2662 S Gessner Road
 > Houston, TX 77063
@@ -28,7 +30,7 @@ ___
 > Lunes a Domingos: 10:00 am a 08:00 pm.
 > 
 > ---
-> Cost Traslado= **$0.50/lbs**
+> Cost Traslado= **$0.40/lbs**
 > 
 
 > [!Florida]
