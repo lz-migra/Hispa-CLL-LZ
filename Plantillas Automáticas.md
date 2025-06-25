@@ -73,6 +73,7 @@ Consideraciones para "ingles"
 - ID del cliente: 
 - Order code: 
 - ID o FOI:  (Este lo encuentras al lado izquierdo de "tipo". En caso de haber varios solo el primero)
+- Servicio: Recarga
 - Status: (En caso de haber varios solo el primero)
 - Operador: 
 - Solicitud: 
