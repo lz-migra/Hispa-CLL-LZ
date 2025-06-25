@@ -1,4 +1,7 @@
-## Recargas
+## bienvenida
+
+
+
 - *Plan 80 MIN*
   Reciben 80 minutos nacionales x 35 días
   $5.99
@@ -27,14 +30,14 @@
   Reciben 1500 CUP al Saldo Principal + Internet Nocturno de 12 am a 7 am por 1 mes
   $22.99
 ---
-- El Fuerte**
+- *El Fuerte*
   Reciben 14GB + 115MIN + 120SMS x 35 días
   $33.99
 ---
-- **Cacique**
+- *Cacique*
   Reciben 20GB + 165MIN + 160SMS x 35 días
   $44.49
 ---
-- **Recarga 1000 X3 + Internet**
+- *Recarga 1000 X3 + Internet*
   Reciben 3000 CUP Saldo Principal + Internet Nocturno de 12 am a 7 am por 1 mes
   $45.98
