@@ -52,5 +52,17 @@ Estimado/a [Nombre del cliente], para una mejor atención a su solicitud, es nec
   
   ## Speech Envios - Mercado
 
-Envios
+#### Envios
 (Nombre del cliente) Quiero aprovechar el momento para comentarle que Cuballama tiene las mejores ofertas, con entregas en menor tiempo para que su familiar esté preparado en Verano. Contamos con Ventiladores recargables/ lamparas / linternas / bombillos y mucho más. Estos artículos como están en promoción suelen agotarse muy rápido. ¿Desea conocer a detalle alguno de estos productos?
+
+#### Mercado
+
+Speech 1: (Nombre del cliente), ¿Sabia que puede apoyar a su familia en Cuba a través de nuestro servicio Cuballama Mercado?. Le ofrecemos  en el mes del padre: alimentos frescos, medicinas y artículos esenciales para el hogar con entrega directamente en el domicilio de su familiar. Usted puede ahorrar y optar por las ofertas que Cuballama tiene para usted, contamos con ( Se mencionan las ofertas) Si gusta, le puedo ayudar a realizar su compra para que sorprenda a su Familia. ¿A quién desea enviarle? les asisto con mucho gusto…
+
+Speech 2: **(Nombre del cliente), ¿necesita enviar alimentos, medicinas o artículos para el hogar a su familia en Cuba?**  
+En este mes del padre, **Cuballama Mercado** le trae las mejores ofertas, como este artículo: _(se mencionan las ofertas)_.
+
+Contamos con entregas a domicilio, incluso el mismo día en algunos casos.  
+Con mucho gusto le puedo asistir para realizar su compra; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
+
+**¿Le gustaría que empecemos?**
