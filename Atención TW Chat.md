@@ -5,9 +5,9 @@
 ## Bienvenida
 
 Caso nuevo: 
-¡Muy buenos días, XXX! Le habla Lorenzo, Con gusto le asistiré en su requerimiento.  
+¡Muy buenos días/tardes, XXX! Le habla Lorenzo, con gusto le asistiré en su requerimiento.  
   
-Mensajes 2: ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
+¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 
 
 ### Despedida
