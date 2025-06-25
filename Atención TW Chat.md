@@ -8,24 +8,35 @@ Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortograf
 
 ### Despedida
 
-Se usa cuándo el requerimiento es solucionado 2 + 2 + 1
+> [!2 + 2 + 1]
+> # # Se usa cuándo el requerimiento es solucionado 2 + 2 + 1
+> 
+> ---
+> **¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!** (Esperar 2min)
+> 
+> ---
+> Speech 2: **(Nombre del cliente), ¿necesita enviar alimentos, medicinas o artículos para el hogar a su familia en Cuba?**  
+> En este mes del padre, **Cuballama Mercado** le trae las mejores ofertas, como este artículo: _(se mencionan las ofertas)_.
+> 
+> Contamos con entregas a domicilio, incluso el mismo día en algunos casos.  
+> Con mucho gusto le puedo asistir para realizar su compra; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
+> 
+> ---
+> 
+> **SPEECH DE DESPEDIDA: Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna pregunta o requerimiento adicional, no dude en hacérnoslo saber. Recuerde que este canal de atención está disponible desde las 09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos a nuestro Call Center +1 786 408 6400 desde las 09:00hrs hasta las 21:00hrs. Nuestro correo es info@cuballama.com si desea escribirnos. ¡Feliz día!**
+> 
+
+
+Se usa cuando el cliente deja de responder
 
 ---
-**¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!** (Esperar 2min)
+Ultimo mensaje enviado al cliente (5Min)
 
 ---
-Speech 2: **(Nombre del cliente), ¿necesita enviar alimentos, medicinas o artículos para el hogar a su familia en Cuba?**  
-En este mes del padre, **Cuballama Mercado** le trae las mejores ofertas, como este artículo: _(se mencionan las ofertas)_.
-
-Contamos con entregas a domicilio, incluso el mismo día en algunos casos.  
-Con mucho gusto le puedo asistir para realizar su compra; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
+**¡Hola (Nombre del cliente)! Esta conversación está a punto de cerrarse por inactividad. Si aún necesita asistencia, por favor, envíenos un mensaje para que podamos seguir ayudándole. ¡Estamos aquí para usted!** (5min)
 
 ---
 
-**SPEECH DE DESPEDIDA: Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna pregunta o requerimiento adicional, no dude en hacérnoslo saber. Recuerde que este canal de atención está disponible desde las 09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos a nuestro Call Center +1 786 408 6400 desde las 09:00hrs hasta las 21:00hrs. Nuestro correo es info@cuballama.com si desea escribirnos. ¡Feliz día!**
-
-
-Se usa cuando el cliente deja de responder y se procede con el protocolo 
 **Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.**
 
 
