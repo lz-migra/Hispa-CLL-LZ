@@ -4,7 +4,8 @@
 <font color="#92d050"> Te voy a ir pasado mensajes para que les apliques lo anterior y regrésame únicamente la respuesta. lo puedes poner en un recuadro para copiar rápidamente</font>
 ## Bienvenida
 
-
+Caso nuevo: 
+Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.
 
 ### Despedida
 
@@ -82,7 +83,10 @@
 
 ## Transferencia
 
-Estimado/a [Nombre del cliente], para una mejor atención a su solicitud, es necesario transferirla al departamento de [Nombre del departamento]. Un representante de dicho departamento se pondrá en contacto con usted a la brevedad para brindarle una respuesta detallada. Le agradecemos su paciencia y comprensión.
+**Estimado/a [Nombre del cliente],**  
+Para brindarle una mejor atención a su solicitud, es necesario transferirlo al departamento de *Viajes*.
+
+Un representante de dicho departamento se comunicará con usted a la brevedad para ofrecerle una respuesta detallada.
 
 ### Lista de Recargas
 
