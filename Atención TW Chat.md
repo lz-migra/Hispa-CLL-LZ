@@ -38,12 +38,12 @@
 > **¡Hola (Nombre del cliente)! Esta conversación está a punto de cerrarse por inactividad. Si aún necesita asistencia, por favor, envíenos un mensaje para que podamos seguir ayudándole. ¡Estamos aquí para usted!** <font color="#c00000">(5min)</font>
 > 
 > ---
->  <font color="#00b050">Speech Envios:</font> **(Nombre del cliente), aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas con entregas en menor tiempo, ideales para que su familiar esté preparado para el verano.**
+>  <font color="#00b050">Speech Envios:</font> (Nombre del cliente), aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
 >  
-> Contamos con **ventiladores recargables, lámparas, linternas, bombillos** y mucho más. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente.
+> Contamos con ventiladores recargables 🔋, lámparas 💡, linternas 🔦, bombillos y mucho más 🏠. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente ⏳.
 > 
-> **¿Le gustaría conocer más detalles sobre alguno de estos productos? Estoy aquí para asistirle con mucho gusto.** <font color="#c00000">(2Min)</font>
->
+> ¿Le gustaría conocer más detalles sobre alguno de estos productos? Estoy aquí para asistirle con mucho gusto 🤝.
+> <font color="#c00000">(2Min)</font>
 >
 >
 > <font color="#ffff00">Speech Mercado:</font> (Nombre del cliente), ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
