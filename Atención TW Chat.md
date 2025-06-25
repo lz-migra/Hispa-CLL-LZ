@@ -9,7 +9,8 @@ Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortograf
 ### Despedida
 
 > [!2 + 2 + 1]
-> # # Se usa cuándo el requerimiento es solucionado 2 + 2 + 1
+> ## Se usa cuándo el requerimiento es solucionado 
+> ## 2 + 2 + 1
 > 
 > ---
 > **¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!** (Esperar 2min)
