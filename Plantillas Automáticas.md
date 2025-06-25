@@ -72,10 +72,8 @@ Consideraciones para "ingles"
 "Recarga" rellenas la siguiente plantilla
 - ID del cliente: 
 - Order code: 
-- ID o FOI:  (Este lo encuentras al lado izquierdo de "tipo". En caso de haber varios solo el primero)
 - Servicio: Recarga
 - Status: (En caso de haber varios solo el primero)
-- Operador: 
 - Solicitud: 
 
 Consideraciones para todas las plantillas:
@@ -89,4 +87,4 @@ Consideraciones para todas las plantillas:
 7. No puedes combinar las plantillas.
 8. Recuerda la solicitud siempre queda sin texto.
 9. Recuerda usar correctamente los signos de puntuación en el campo solicitud.
-10. A las direcciones de correo electrónico reemplaza la @ por un espacio
+10. A las direcciones de correo electrónico reemplaza la @ por un espacio.
