@@ -5,7 +5,10 @@
 ## Bienvenida
 
 Caso nuevo: 
-Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.
+¡Muy buenos días, XXX! Le habla Lorenzo, Con gusto le asistiré en su requerimiento.  
+  
+Mensajes 2: ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
+
 
 ### Despedida
 
