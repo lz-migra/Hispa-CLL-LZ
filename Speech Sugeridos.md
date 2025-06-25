@@ -81,7 +81,7 @@ Speech sugerido: 
 
 Voy a proceder a comunicar lo con el ÁREA ENCARGADA para que le asistan, permítame un momento por favor **(Transferir llamada Skill de PAGOS 2° NIVEL).**
 
-
+Una captura de pantalla de la app de su banco donde se visualice:
 👉🏼 - Descripción de la compra donde sea visible el nombre de nuestra compañía: Cuballama, Recarga, Envíos y Mercado.
 👉🏼 - Últimos 4 dígitos o máscara de la tarjeta utilizada.
 👉🏼 - También deben observarse las últimas 2 o 3 transacciones que usted haya realizado.
