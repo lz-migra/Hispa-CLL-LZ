@@ -1,5 +1,9 @@
-## bienvenida
+## Bienvenida
 
+
+## Transferencia
+
+Estimado/a [Nombre del cliente], para una mejor atención a su solicitud, es necesario transferirla al departamento de [Nombre del departamento]. Un representante de dicho departamento se pondrá en contacto con usted a la brevedad para brindarle una respuesta detallada. Le agradecemos su paciencia y comprensión.
 
 
 - *Plan 80 MIN*
