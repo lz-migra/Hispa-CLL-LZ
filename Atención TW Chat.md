@@ -8,8 +8,12 @@ Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortograf
 
 ### Despedida
 
-Se usa cuándo el requerimiento es solucionado:
+Se usa cuándo el requerimiento es solucionado 2 + 2 + 1
+
+**¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!
+
 **SPEECH DE DESPEDIDA: Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna pregunta o requerimiento adicional, no dude en hacérnoslo saber. Recuerde que este canal de atención está disponible desde las 09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos a nuestro Call Center +1 786 408 6400 desde las 09:00hrs hasta las 21:00hrs. Nuestro correo es info@cuballama.com si desea escribirnos. ¡Feliz día!**
+
 
 Se usa cuando el cliente deja de responder y se procede con el protocolo 
 **Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.**
