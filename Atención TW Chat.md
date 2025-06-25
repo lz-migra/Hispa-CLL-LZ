@@ -1,7 +1,7 @@
-Corrección con IA
-Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortografía, no puedes tutear, tambien puedes utilizar emojis pero no caras o personajes e intenta ser lo mas amable posible, sin agregar información.
+<font color="#92d050">Corrección con IA</font>
+<font color="#92d050">Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortografía, no puedes tutear, tambien puedes utilizar emojis pero no caras o personajes e intenta ser lo mas amable posible, sin agregar información.</font>
 
- Te voy a ir pasado mensajes para que les apliques lo anterior y regrésame únicamente la respuesta. lo puedes poner en un recuadro para copiar rápidamente
+<font color="#92d050"> Te voy a ir pasado mensajes para que les apliques lo anterior y regrésame únicamente la respuesta. lo puedes poner en un recuadro para copiar rápidamente</font>
 ## Bienvenida
 
 
@@ -38,7 +38,10 @@ Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortograf
 > **¡Hola (Nombre del cliente)! Esta conversación está a punto de cerrarse por inactividad. Si aún necesita asistencia, por favor, envíenos un mensaje para que podamos seguir ayudándole. ¡Estamos aquí para usted!** (5min)
 > 
 > ---
-> Speech 2: **(Nombre del cliente), ¿necesita enviar alimentos, medicinas o artículos para el hogar a su familia en Cuba?**  
+>  Speech Envios: (Nombre del cliente) Quiero aprovechar el momento para comentarle que Cuballama tiene las mejores ofertas, con entregas en menor tiempo para que su familiar esté preparado en Verano. Contamos con Ventiladores recargables/ lamparas / linternas / bombillos y mucho más. Estos artículos como están en promoción suelen agotarse muy rápido. ¿Desea conocer a detalle alguno de estos productos?
+> 
+> ---
+> Speech Mercado: **(Nombre del cliente), ¿necesita enviar alimentos, medicinas o artículos para el hogar a su familia en Cuba?**  
 > En este mes del padre, **Cuballama Mercado** le trae las mejores ofertas, como este artículo: _(se mencionan las ofertas)_.
 > 
 > Contamos con entregas a domicilio, incluso el mismo día en algunos casos.  
