@@ -28,17 +28,19 @@ Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortograf
 > 
 
 
-Se usa cuando el cliente deja de responder
-
----
-Ultimo mensaje enviado al cliente (5Min)
-
----
-**¡Hola (Nombre del cliente)! Esta conversación está a punto de cerrarse por inactividad. Si aún necesita asistencia, por favor, envíenos un mensaje para que podamos seguir ayudándole. ¡Estamos aquí para usted!** (5min)
-
----
-
-**Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.**
+> [! 5 + 5 + 2 + 1]
+> Se usa cuando el cliente deja de responder 5 + 5 + 2 + 1
+> 
+> ---
+> Ultimo mensaje enviado al cliente (5Min)
+> 
+> ---
+> **¡Hola (Nombre del cliente)! Esta conversación está a punto de cerrarse por inactividad. Si aún necesita asistencia, por favor, envíenos un mensaje para que podamos seguir ayudándole. ¡Estamos aquí para usted!** (5min)
+> 
+> ---
+> 
+> **Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.**
+> 
 
 
 
