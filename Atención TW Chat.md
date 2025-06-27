@@ -30,7 +30,11 @@ Caso nuevo:
 >
 > <font color="#ffff00">Speech Mercado:</font> (Nombre del cliente), ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
 >
-> En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como este artículo: (se mencionan las ofertas).
+> En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
+>
+> Combo de Huevos + Aceite - $8.99 🥚🍳
+>
+>
 >
 > Contamos con entregas a domicilio, incluso en algunos casos el mismo día.
 >
