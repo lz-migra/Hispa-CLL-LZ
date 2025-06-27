@@ -32,14 +32,14 @@ Caso nuevo:
 >
 > En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
 >
-> Combo: Huevos + Aceite en $8.99 🥚🍳
+> - Combo: Huevos + Aceite en $8.99 🥚🍳
 >
-> Combo económico: Picadillo de res 🥩 + Salchichas 🌭 + Azúcar  + Arroz + Aceite en $12.30 
+> - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
 >
 > Contamos con entregas a domicilio, incluso en algunos casos el mismo día.
 >
 > Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
-> podemos prodecer con su compra si usted desea
+> podemos prodecer con su compra si usted desea.
  <font color="#c00000">(2Min)</font>
 > 
 > ---
@@ -74,12 +74,16 @@ Caso nuevo:
 >
 > <font color="#ffff00">Speech Mercado:</font> (Nombre del cliente), ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
 >
-> En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como este artículo: (se mencionan las ofertas).
+> En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
+>
+> - Combo: Huevos + Aceite en $8.99 🥚🍳
+>
+> - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
 >
 > Contamos con entregas a domicilio, incluso en algunos casos el mismo día.
 >
 > Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
-> podemos prodecer con su compra si usted desea
+> podemos prodecer con su compra si usted desea.
  <font color="#c00000">(2Min)</font>
 > ---
 > **Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole, con su solicitud. Recuerde que este canal de atención está disponible desde las  09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos al Call Center +1 786 408 6400, o contactarnos a nuestro chat en línea. Nuestro correo es [info@cuballama.com](mailto:info@cuballama.com) si desea escribirnos.**
