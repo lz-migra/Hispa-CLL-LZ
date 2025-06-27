@@ -33,12 +33,13 @@ Caso nuevo:
 > En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
 >
 > - Combo: Huevos + Aceite en $8.99 🥚🍳
->
+> https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
 > - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
+> https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
+> 
+>Contamos con entregas a domicilio, incluso en algunos casos el mismo día.
 >
-> Contamos con entregas a domicilio, incluso en algunos casos el mismo día.
->
-> Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
+>Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
 > podemos prodecer con su compra si usted desea.
  <font color="#c00000">(2Min)</font>
 > 
