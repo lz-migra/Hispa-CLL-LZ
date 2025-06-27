@@ -32,9 +32,9 @@ Caso nuevo:
 >
 > En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
 >
-> Combo de Huevos + Aceite - $8.99 🥚🍳
+> Combo: Huevos + Aceite en $8.99 🥚🍳
 >
->
+> Combo económico: Picadillo de res 🥩 + Salchichas 🌭 + Azúcar  + Arroz + Aceite en $12.30 
 >
 > Contamos con entregas a domicilio, incluso en algunos casos el mismo día.
 >
