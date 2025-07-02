@@ -28,20 +28,21 @@ Caso nuevo:
 <font color="#00b050">Speech Envios:</font> 
 ```
 Nombre del cliente, aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
-  
+ 
 Contamos con ventiladores recargables , lámparas , linternas , bombillos y mucho más 🏠. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente.
-
+ 
 ¿Le gustaría conocer más detalles sobre alguno de estos productos? Estoy aquí para asistirle con mucho gusto 🤝. 
 ```
 
 <font color="#ffff00">Speech Mercado:</font> 
 ```
 Nombre del cliente, ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
-
+ 
 En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
-
+ 
 - Combo: Huevos + Aceite en $8.99 🥚🍳
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
+ 
 - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
  
@@ -179,7 +180,7 @@ _$33.99_
 ⁣ ⁣
 ----
 ⁣ ⁣
-9 *Cacique*
+9.  *Cacique*
 🌐 20GB + 📞 165 MIN + 💬 160 SMS x 35 días
 _$44.49_
 ⁣ ⁣
