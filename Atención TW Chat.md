@@ -29,7 +29,7 @@ Caso nuevo:
 ```
 Nombre del cliente, aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
  ⠀
-Contamos con ventiladores recargables , lámparas , linternas , bombillos y mucho más 🏠. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente.
+Contamos con ventiladores recargables, lámparas, linternas, bombillos y mucho más 🏠. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente.
  ⠀
 ¿Le gustaría conocer más detalles sobre alguno de estos productos? Estoy aquí para asistirle con mucho gusto 🤝. 
 ```
