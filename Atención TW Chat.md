@@ -5,8 +5,10 @@
 ## Bienvenida
 
 Caso nuevo: 
+
+```
 ¡Muy buenos días/tardes, Le habla Lorenzo, con gusto le asistiré en su requerimiento. 
-  
+```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 
 
