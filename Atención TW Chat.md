@@ -143,15 +143,15 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
   Reciben 3000 CUP Saldo Principal + Internet Nocturno de 12 am a 7 am por 1 mes
   $45.98
   
-  - 🟢 Plan 80 MIN
-📞 80 minutos nacionales x 35 días
-💵 $5.99
+-  **Plan 80 MIN**
+80 minutos nacionales x 35 días
+$5.99
 
-- 🟢 Plan Standard
+-  **Plan Standard**
 🌐 9GB + 📞 75 MIN + 💬 80 SMS x 35 días
 💵 $22.99
 
-- 🟢 Recarga 250 CUP + 40 MIN
+- **Recarga 250 CUP + 40 MIN**
 💰 250 CUP + 📞 40 minutos nacionales x 35 días
 💵 $13.99
 
