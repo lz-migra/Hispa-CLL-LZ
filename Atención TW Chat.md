@@ -103,6 +103,7 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
 
 ### Lista de Recargas
 
+```
 -  **Plan 80 MIN**
 📞 80 minutos nacionales x 35 días
 $5.99
@@ -146,8 +147,9 @@ $33.99
 - **Cacique**
 🌐 20GB + 📞 165 MIN + 💬 160 SMS x 35 días
 $44.49
-
 ---
 - **Lo Más Grande**
 🌐 29GB + 📞 240 MIN + 💬 240 SMS x 35 días
 $64.99
+```
+
