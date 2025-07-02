@@ -44,9 +44,9 @@ En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como 
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
 - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
-
+ 
 *Contamos con entregas a domicilio, incluso en algunos casos el mismo día.*
-
+ 
 Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
 Podemos proceder con su compra si usted desea.
 ```
@@ -62,6 +62,8 @@ Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna 
 
 ---
 
+> [!note]
+> 
 
 ## Se usa cuando el cliente deja de responder
 ## 5 + 2 + 5 + 2 + 1
@@ -85,25 +87,26 @@ Seguimos atentos
 <font color="#00b050">Speech Envios:</font> 
 ```
 Nombre del cliente, aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
-  
+ 
 Contamos con ventiladores recargables , lámparas , linternas , bombillos y mucho más 🏠. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente.
-
+ 
 ¿Le gustaría conocer más detalles sobre alguno de estos productos? Estoy aquí para asistirle con mucho gusto 🤝. 
 ```
 
 <font color="#ffff00">Speech Mercado:</font> 
 ```
 Nombre del cliente, ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
-
+ 
 En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
-
+ 
 - Combo: Huevos + Aceite en $8.99 🥚🍳
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
+ 
 - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
-
+ 
 *Contamos con entregas a domicilio, incluso en algunos casos el mismo día.*
-
+ 
 Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
 Podemos proceder con su compra si usted desea.
 ```
@@ -122,7 +125,7 @@ Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole,
 ```
 *Estimado/a Nombre del cliente,*
 Para brindarle una mejor atención a su solicitud, es necesario transferirlo al departamento de *Viajes*.
-
+ 
 Un representante de dicho departamento se comunicará con usted a la brevedad para ofrecerle una respuesta detallada.
 ```
 ### Lista de Recargas
