@@ -103,82 +103,51 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
 
 ### Lista de Recargas
 
-- *Plan 80 MIN*
-  Reciben 80 minutos nacionales x 35 días
-  $5.99
----
-- *Recarga 250 CUP*
-  Tu contacto recibe 250 CUP
-  $11.99
----
-- *Recarga 250 CUP + 40 MIN*
-  Reciben 250 CUP y 40 minutos nacionales x 35 días
-  $13.99
----
-- *Plan 3 GB + 40 MIN*
-  Reciben 3 GB y 40 minutos nacionales x 35 días
-  $13.99
----
-- *Recarga 360 CUP*
-  Tu contacto recibe 360 CUP
-  $16.50
----
-- *Standard*
-  Reciben 9GB + 75MIN + 80SMS x 35 días
-  $22.99
----
-- *Recarga 500 X3 + Internet* (¡Promo!)
-  Reciben 1500 CUP al Saldo Principal + Internet Nocturno de 12 am a 7 am por 1 mes
-  $22.99
----
-- *El Fuerte*
-  Reciben 14GB + 115MIN + 120SMS x 35 días
-  $33.99
----
-- *Cacique*
-  Reciben 20GB + 165MIN + 160SMS x 35 días
-  $44.49
----
-- *Recarga 1000 X3 + Internet*
-  Reciben 3000 CUP Saldo Principal + Internet Nocturno de 12 am a 7 am por 1 mes
-  $45.98
-  
 -  **Plan 80 MIN**
-80 minutos nacionales x 35 días
+📞 80 minutos nacionales x 35 días
 $5.99
 
+----
 -  **Plan Standard**
 🌐 9GB + 📞 75 MIN + 💬 80 SMS x 35 días
-💵 $22.99
+$22.99
 
+----
 - **Recarga 250 CUP + 40 MIN**
 💰 250 CUP + 📞 40 minutos nacionales x 35 días
-💵 $13.99
-
-- 🟢 Recarga 250 CUP
+ $13.99
+ 
+----
+- **Recarga 250 CUP**
 💰 Tu contacto recibe 250 CUP
-💵 $11.99
-
-- 🟢 Plan 3 GB + 40 MIN
+ $11.99
+ 
+----
+-  **Plan 3 GB + 40 MIN**
 🌐 3 GB + 📞 40 minutos nacionales x 35 días
-💵 $13.99
+$13.99
 
-- 🟢 Recarga 360 CUP
+----
+- **Recarga 360 CUP**
 💰 Tu contacto recibe 360 CUP
-💵 $16.50
+$16.50
 
-- 🟢 Recarga 500 CUP
+---
+- **Recarga 500 CUP**
 💰 Tu contacto recibe 500 CUP
-💵 $22.99
+$22.99
 
-- 🟢 El Fuerte
+---
+- **El Fuerte**
 🌐 14GB + 📞 115 MIN + 💬 120 SMS x 35 días
-💵 $33.99
+$33.99
 
-- 🟢 Cacique
+---
+- **Cacique**
 🌐 20GB + 📞 165 MIN + 💬 160 SMS x 35 días
-💵 $44.49
+$44.49
 
-- 🟢 Lo Más Grande
+---
+- **Lo Más Grande**
 🌐 29GB + 📞 240 MIN + 💬 240 SMS x 35 días
-💵 $64.99
+$64.99
