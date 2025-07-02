@@ -16,9 +16,8 @@ Caso nuevo:
 
 ### Despedida
 
-> [!2 + 2 + 1]
-> ## Se usa cuándo el requerimiento es solucionado 
-> ## 2 + 2 + 1 
+## Se usa cuándo el requerimiento es solucionado 
+ ## 2 + 2 + 1 
 ---
 ```
 ¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!
@@ -26,33 +25,42 @@ Caso nuevo:
 <font color="#c00000">(2min)</font>
 
 ---
-<font color="#00b050">Speech Envios:</font> Nombre del cliente, aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
+<font color="#00b050">Speech Envios:</font> 
+```
+Nombre del cliente, aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
   
 Contamos con ventiladores recargables , lámparas , linternas , bombillos y mucho más 🏠. Estos artículos están en promoción y, debido a la alta demanda, suelen agotarse rápidamente.
 
 ¿Le gustaría conocer más detalles sobre alguno de estos productos? Estoy aquí para asistirle con mucho gusto 🤝. 
+```
 
-> <font color="#ffff00">Speech Mercado:</font> Nombre del cliente, ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
->
-> En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
->
-> - Combo: Huevos + Aceite en $8.99 🥚🍳
-> https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
-> - Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
-> https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
-> 
->**Contamos con entregas a domicilio, incluso en algunos casos el mismo día.**
->
->Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
-> Podemos proceder con su compra si usted desea.
+<font color="#ffff00">Speech Mercado:</font> 
+```
+Nombre del cliente, ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
+
+En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
+
+- Combo: Huevos + Aceite en $8.99 🥚🍳
+https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
+- Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
+https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
+
+*Contamos con entregas a domicilio, incluso en algunos casos el mismo día.*
+
+Con mucho gusto le puedo asistir para realizar su compra ✅; así alegrará la semana a su familiar y, además, estará aprovechando excelentes precios.
+Podemos proceder con su compra si usted desea.
+```
  <font color="#c00000">(2Min)</font>
-> 
-> ---
-> 
-> **SPEECH DE DESPEDIDA: Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna pregunta o requerimiento adicional, no dude en hacérnoslo saber. Recuerde que este canal de atención está disponible desde las 09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos a nuestro Call Center +1 786 408 6400 desde las 09:00hrs hasta las 21:00hrs. Nuestro correo es info@cuballama.com si desea escribirnos. ¡Feliz día!**
-> <font color="#c00000">(1Min) Cerrar</font>
-> 
+ 
+---
 
+ **SPEECH DE DESPEDIDA:**
+```
+Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna pregunta o requerimiento adicional, no dude en hacérnoslo saber. Recuerde que este canal de atención está disponible desde las 09:00hrs hasta las 21:00hrs. Igualmente, puede llamarnos a nuestro Call Center +1 786 408 6400 desde las 09:00hrs hasta las 21:00hrs. Nuestro correo es info@cuballama.com si desea escribirnos. ¡Feliz día!
+```
+ <font color="#c00000">(1Min) Cerrar</font>
+
+---
 
 > [! 5 + 2 + 5 + 2 + 1]
 > ## Se usa cuando el cliente deja de responder
