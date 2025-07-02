@@ -14,7 +14,7 @@ Caso nuevo:
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 ```
 
-### Despedida
+### <center>Despedida</center>
 
 ## Se usa cuándo el requerimiento es solucionado 
  ## 2 + 2 + 1 
@@ -62,18 +62,20 @@ Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna 
 
 ---
 
-> [! 5 + 2 + 5 + 2 + 1]
-> ## Se usa cuando el cliente deja de responder
-> ## 5 + 2 + 5 + 2 + 1
-> 
-> ---
-> Ultimo mensaje enviado al cliente <font color="#c00000">(5Min)</font>
-> 
-> ---
-> 
-> ¿Sigue en linea? <font color="#c00000">(2Min)</font>
-> 
-> ---
+
+## Se usa cuando el cliente deja de responder
+## 5 + 2 + 5 + 2 + 1
+
+---
+Ultimo mensaje enviado al cliente <font color="#c00000">(5Min)</font>
+
+---
+```
+Seguimos atentos
+```
+ <font color="#c00000">(2Min)</font>
+
+---
 > **¡Hola Nombre del cliente! Esta conversación está a punto de cerrarse por inactividad. Si aún necesita asistencia, por favor, envíenos un mensaje para que podamos seguir ayudándole. ¡Estamos aquí para usted!** <font color="#c00000">(5min)</font>
 > 
 > ---
