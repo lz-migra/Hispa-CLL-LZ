@@ -107,15 +107,15 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
 1.  *Plan 80 MIN*
 📞 80 minutos nacionales x 35 días
 _$5.99_
-⁣
+
 ----
-⁣
+
 2.  *Plan Standard*
 🌐 9GB + 📞 75 MIN + 💬 80 SMS x 35 días
 _$22.99_
-⁣
+
 ----
-⁣
+
 3. *Recarga 250 CUP + 40 MIN*
 💰 250 CUP + 📞 40 minutos nacionales x 35 días
 _$13.99_
@@ -128,26 +128,36 @@ _$11.99_
 
 ----
 
--  *Plan 3 GB + 40 MIN*
+4. *Plan 3 GB + 40 MIN*
 🌐 3 GB + 📞 40 minutos nacionales x 35 días
 _$13.99_
+
 ----
+
 - *Recarga 360 CUP*
 💰 Tu contacto recibe 360 CUP
 _$16.50_
+
 ---
+
 - *Recarga 500 CUP*
 💰 Tu contacto recibe 500 CUP
 _$22.99_
+
 ---
+
 - *El Fuerte*
 🌐 14GB + 📞 115 MIN + 💬 120 SMS x 35 días
 _$33.99_
+
 ---
+
 - *Cacique*
 🌐 20GB + 📞 165 MIN + 💬 160 SMS x 35 días
 _$44.49_
+
 ---
+
 - *Lo Más Grande*
 🌐 29GB + 📞 240 MIN + 💬 240 SMS x 35 días
 _$64.99_
