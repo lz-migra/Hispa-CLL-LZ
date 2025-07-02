@@ -205,11 +205,11 @@ Speech Paquetería
 ```
 ```
 📦 Para envíos de misceláneas por vía aérea trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 14 lb en adelante.
-
+ ⠀⁣
 ✈️ Para Provincia:
 - Desde 14 lb: $4.79 por libra  
 - Desde 22 lb: $3.89 por libra  
 - Desde 50 lb: $3.69 por libra  
 - Desde 70 lb: $3.49 por libra  
 - Paquete de 100 lb (máximo permitido): $3.19 por libra
-
+```
