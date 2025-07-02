@@ -74,7 +74,7 @@ Ultimo mensaje enviado al cliente <font color="#c00000">(5Min)</font>
 
 ---
 ```
-Seguimos atentos
+Seguimos atentos.
 ```
  <font color="#c00000">(2Min)</font>
 
