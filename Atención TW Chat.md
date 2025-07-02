@@ -107,19 +107,27 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
 1.  *Plan 80 MIN*
 📞 80 minutos nacionales x 35 días
 _$5.99_
+⁣
 ----
+⁣
 2.  *Plan Standard*
 🌐 9GB + 📞 75 MIN + 💬 80 SMS x 35 días
 _$22.99_
+⁣
 ----
+⁣
 3. *Recarga 250 CUP + 40 MIN*
 💰 250 CUP + 📞 40 minutos nacionales x 35 días
 _$13.99_
+
 ----
+
 4. *Recarga 250 CUP*
 💰 Tu contacto recibe 250 CUP
-_$11.99_ 
+_$11.99_
+
 ----
+
 -  *Plan 3 GB + 40 MIN*
 🌐 3 GB + 📞 40 minutos nacionales x 35 días
 _$13.99_
