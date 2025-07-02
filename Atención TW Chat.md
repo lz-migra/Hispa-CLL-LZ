@@ -104,52 +104,44 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
 ### Lista de Recargas
 
 ```
--  **Plan 80 MIN**
+-  *Plan 80 MIN*
 📞 80 minutos nacionales x 35 días
-$5.99
-
+_$5.99_
 ----
--  **Plan Standard**
+-  *Plan Standard*
 🌐 9GB + 📞 75 MIN + 💬 80 SMS x 35 días
-$22.99
-
+_$22.99_
 ----
-- **Recarga 250 CUP + 40 MIN**
+- *Recarga 250 CUP + 40 MIN*
 💰 250 CUP + 📞 40 minutos nacionales x 35 días
- $13.99
- 
+_$13.99_
 ----
-- **Recarga 250 CUP**
+- *Recarga 250 CUP*
 💰 Tu contacto recibe 250 CUP
- $11.99
- 
+_$11.99_ 
 ----
--  **Plan 3 GB + 40 MIN**
+-  *Plan 3 GB + 40 MIN*
 🌐 3 GB + 📞 40 minutos nacionales x 35 días
-$13.99
-
+_$13.99_
 ----
-- **Recarga 360 CUP**
+- *Recarga 360 CUP*
 💰 Tu contacto recibe 360 CUP
-$16.50
-
+_$16.50_
 ---
-- **Recarga 500 CUP**
+- *Recarga 500 CUP*
 💰 Tu contacto recibe 500 CUP
-$22.99
-
+_$22.99_
 ---
-- **El Fuerte**
+- *El Fuerte*
 🌐 14GB + 📞 115 MIN + 💬 120 SMS x 35 días
-$33.99
-
+_$33.99_
 ---
-- **Cacique**
+- *Cacique*
 🌐 20GB + 📞 165 MIN + 💬 160 SMS x 35 días
-$44.49
+_$44.49_
 ---
-- **Lo Más Grande**
+- *Lo Más Grande*
 🌐 29GB + 📞 240 MIN + 💬 240 SMS x 35 días
-$64.99
+_$64.99_
 ```
 
