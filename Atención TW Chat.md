@@ -9,17 +9,21 @@ Caso nuevo:
 ```
 ¡Muy buenos días/tardes, Le habla Lorenzo, con gusto le asistiré en su requerimiento. 
 ```
-¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 
+```
+¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
+```
 
 ### Despedida
 
 > [!2 + 2 + 1]
 > ## Se usa cuándo el requerimiento es solucionado 
-> ## 2 + 2 + 1
-> 
-> ---
-> **¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!** <font color="#c00000">(2min)</font>
+> ## 2 + 2 + 1 
+---
+```
+¿Hay algo más en lo que le pueda asistir? ¡Será con todo el gusto!
+```
+<font color="#c00000">(2min)</font>
 > 
 > ---
 >  <font color="#00b050">Speech Envios:</font> Nombre del cliente, aprovecho este momento para comentarle que en Cuballama tenemos excelentes ofertas 🌟 con entregas en menor tiempo 🚚, ideales para que su familiar esté preparado para el verano ☀️.
