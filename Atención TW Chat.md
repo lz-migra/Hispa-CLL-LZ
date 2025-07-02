@@ -143,3 +143,42 @@ Un representante de dicho departamento se comunicará con usted a la brevedad pa
   Reciben 3000 CUP Saldo Principal + Internet Nocturno de 12 am a 7 am por 1 mes
   $45.98
   
+  - 🟢 Plan 80 MIN
+📞 80 minutos nacionales x 35 días
+💵 $5.99
+
+- 🟢 Plan Standard
+🌐 9GB + 📞 75 MIN + 💬 80 SMS x 35 días
+💵 $22.99
+
+- 🟢 Recarga 250 CUP + 40 MIN
+💰 250 CUP + 📞 40 minutos nacionales x 35 días
+💵 $13.99
+
+- 🟢 Recarga 250 CUP
+💰 Tu contacto recibe 250 CUP
+💵 $11.99
+
+- 🟢 Plan 3 GB + 40 MIN
+🌐 3 GB + 📞 40 minutos nacionales x 35 días
+💵 $13.99
+
+- 🟢 Recarga 360 CUP
+💰 Tu contacto recibe 360 CUP
+💵 $16.50
+
+- 🟢 Recarga 500 CUP
+💰 Tu contacto recibe 500 CUP
+💵 $22.99
+
+- 🟢 El Fuerte
+🌐 14GB + 📞 115 MIN + 💬 120 SMS x 35 días
+💵 $33.99
+
+- 🟢 Cacique
+🌐 20GB + 📞 165 MIN + 💬 160 SMS x 35 días
+💵 $44.49
+
+- 🟢 Lo Más Grande
+🌐 29GB + 📞 240 MIN + 💬 240 SMS x 35 días
+💵 $64.99
