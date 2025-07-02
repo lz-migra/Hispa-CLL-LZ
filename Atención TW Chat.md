@@ -119,12 +119,12 @@ Nombre del cliente, estaremos atentos a su contacto, para continuar ayudándole,
 
 
 ## Transferencia
-
-Estimado/a Nombre del cliente,
+```
+*Estimado/a Nombre del cliente,*
 Para brindarle una mejor atención a su solicitud, es necesario transferirlo al departamento de *Viajes*.
 
 Un representante de dicho departamento se comunicará con usted a la brevedad para ofrecerle una respuesta detallada.
-
+```
 ### Lista de Recargas
 
 ```
