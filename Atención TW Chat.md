@@ -45,7 +45,7 @@ Contamos con ventiladores recargables, lámparas, linternas, bombillos y mucho m
 ```
 Nombre del cliente, ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
  ⠀
-En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
+*Cuballama Mercado* 🛒 le trae las mejores ofertas, como estos artículos:
  ⠀
 - Combo: Huevos + Aceite en $8.99 🥚🍳
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
@@ -105,7 +105,7 @@ Contamos con ventiladores recargables , lámparas , linternas , bombillos y much
 ```
 Nombre del cliente, ¿necesita enviar alimentos 🍗, medicinas 💊 o artículos para el hogar 🏠 a su familia en Cuba?
  ⠀
-En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como estos artículos:
++Cuballama Mercado* 🛒 le trae las mejores ofertas, como estos artículos:
  ⠀
 - Combo: Huevos + Aceite en $8.99 🥚🍳
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
