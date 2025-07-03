@@ -72,7 +72,7 @@ Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna 
 
 ---
 
-> [!note]
+> [!]
 > 
 
 ## Se usa cuando el cliente deja de responder
