@@ -16,19 +16,23 @@ Caso nuevo:
 ```
 ¡Muy buenos días/tardes, Le habla Lorenzo, con gusto le asistiré en su requerimiento. 
 ```
-
+---
 ```
 Cliente, hemos notado que se había comunicado anteriormente. Permítanos un momento para validar su requerimiento y darle el debido seguimiento.
 ```
 ```
-Hemos verificado que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que podamos asistirle?
+Verificamos que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que podamos asistirle?
 ```
-
+---
 ```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 ```
 ```
 Necesitamos validar. ¿Podría compartirnos, por favor, el correo electrónico asociado a su cuenta de Cuballama?
+```
+---
+```
+Por motivos de seguridad, necesitamos enviar un PIN de cuatro dígitos al correo electrónico asociado a su cuenta. ¿Podría indicarnos, por favor, cuál ha recibido?
 ```
 ### <center>Despedida</center>
 
