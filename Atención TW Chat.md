@@ -20,6 +20,9 @@ Caso nuevo:
 ```
 Cliente, hemos notado que se había comunicado anteriormente. Permítanos un momento para validar su requerimiento y darle el debido seguimiento.
 ```
+```
+Hemos verificado que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que podamos asistirle?
+```
 
 ```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
