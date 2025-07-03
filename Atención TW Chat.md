@@ -18,6 +18,10 @@ Caso nuevo:
 ```
 
 ```
+Cliente, hemos notado que se había comunicado anteriormente. Permítanos un momento para validar su requerimiento y darle el debido seguimiento.
+```
+
+```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 ```
 ```
