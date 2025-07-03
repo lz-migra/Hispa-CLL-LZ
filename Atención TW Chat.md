@@ -2,6 +2,13 @@
 <font color="#92d050">Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortografía, no puedes tutear, tambien puedes utilizar emojis pero no caras o personajes e intenta ser lo mas amable posible, sin agregar información.</font>
 
 <font color="#92d050"> Te voy a ir pasado mensajes para que les apliques lo anterior y regrésame únicamente la respuesta. lo puedes poner en un recuadro para copiar rápidamente</font>
+
+Separador
+
+
+```
+ ⠀
+```
 ## Bienvenida
 
 Caso nuevo: 
@@ -43,7 +50,7 @@ En este mes del padre, Cuballama Mercado 🛒 le trae las mejores ofertas, como 
 - Combo: Huevos + Aceite en $8.99 🥚🍳
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/huevo--aceite-215032
  ⠀
-- Combo económico: Picadillo de res  + Salchichas  + Azúcar  + Arroz + Aceite en $12.30 🥩🌭🍚
+- Combo económico: Picadillo de res + Salchichas + Azúcar + Arroz + Aceite en $12.30 🥩🌭🍚
 https://www.cuballama.com/mercado/negocio/esquina-caliente-484/combo-economico-194077
  ⠀
 *Contamos con entregas a domicilio, incluso en algunos casos el mismo día.*
