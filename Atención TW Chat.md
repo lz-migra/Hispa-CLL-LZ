@@ -20,7 +20,9 @@ Caso nuevo:
 ```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 ```
-
+```
+Necesitamos validar. ¿Podría compartirnos, por favor, el correo electrónico asociado a su cuenta de Cuballama?
+```
 ### <center>Despedida</center>
 
 ## Se usa cuándo el requerimiento es solucionado 
