@@ -220,3 +220,20 @@ Speech Paquetería
 - Desde 70 lb: $3.49 por libra  
 - Paquete de 100 lb (máximo permitido): $3.19 por libra
 ```
+
+```
+📦 Para envíos de misceláneas por vía marítima trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 14 lb en adelante.
+
+🚢 Para La Habana:
+- Desde 14 lb: $3.19 por libra  
+- Desde 22 lb: $2.39 por libra  
+- Desde 50 lb: $2.19 por libra  
+- Desde 70 lb: $1.99 por libra  
+- Paquete de 100 lb (máximo permitido): $1.79 por libra
+
+🚢 Para Provincia:
+- Desde 14 lb: $3.29 por libra  
+- Desde 22 lb: $2.69 por libra  
+- Desde 50 lb: $2.39 por libra  
+- Desde 70 lb: $2.19 por libra  
+- Paquete de 100 lb (máximo permitido): $1.99 por libra
