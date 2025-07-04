@@ -82,10 +82,6 @@ Muchas gracias por contactarnos, siempre es un gusto atenderle, si tiene alguna 
  <font color="#c00000">(1Min) Cerrar</font>
 
 ---
-
-> [!]
-> 
-
 ## Se usa cuando el cliente deja de responder
 ## 5 + 2 + 5 + 2 + 1
 
