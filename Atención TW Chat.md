@@ -1,9 +1,9 @@
 <font color="#92d050">Corrección con IA</font>
-<font color="#92d050">Ayúdame a crear mensajes, que sea muy corteses, ayúdame a corregir la ortografía, no puedes tutear, tambien puedes utilizar emojis pero no caras o personajes e intenta ser lo mas amable posible, sin agregar información.</font>
+<font color="#92d050">Ayúdame a crear mensajes de WhatsApp, que sea muy corteses, ayúdame a corregir la ortografía, no puedes tutear, tambien puedes utilizar emojis pero no caras o personajes e intenta ser lo mas amable posible, sin agregar información.</font>
 
 <font color="#92d050"> Te voy a ir pasado mensajes para que les apliques lo anterior y regrésame únicamente la respuesta. lo puedes poner en un recuadro para copiar rápidamente</font>
 
-Separador 
+Separador Unicode
 
 
 ```
@@ -11,12 +11,13 @@ Separador
 ```
 ## Bienvenida
 
-Caso nuevo: 
+<font color="#ffff00">Saludo Inicial</font>
 
 ```
 ¡Muy buenos días/tardes, Le habla Lorenzo, con gusto le asistiré en su requerimiento. 
 ```
 ---
+<font color="#ffff00">Requerimiento</font>
 ```
 Cliente, hemos notado que se había comunicado anteriormente. Permítanos un momento para validar su requerimiento y darle el debido seguimiento.
 ```
@@ -24,6 +25,7 @@ Cliente, hemos notado que se había comunicado anteriormente. Permítanos un mom
 Verificamos que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que podamos asistirle?
 ```
 ---
+<font color="#ffff00">Solicitar Correo</font>
 ```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 ```
@@ -31,6 +33,7 @@ Verificamos que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que 
 Necesitamos validar. ¿Podría compartirnos, por favor, el correo electrónico asociado a su cuenta de Cuballama?
 ```
 ---
+<font color="#ffff00">PIN</font>
 ```
 Por motivos de seguridad, necesitamos enviar un PIN de cuatro dígitos al correo electrónico asociado a su cuenta. ¿Podría indicarnos, por favor, cuál ha recibido?
 ```
