@@ -3,7 +3,7 @@
 
 <font color="#92d050"> Te voy a ir pasado mensajes para que les apliques lo anterior y regrésame únicamente la respuesta. lo puedes poner en un recuadro para copiar rápidamente</font>
 
-Separador Unicode
+Separador Unicode (U+2800).
 
 
 ```
