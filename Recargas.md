@@ -9,7 +9,7 @@ Aquí tienes la lista tal como lo solicitaste, dentro del recuadro de texto plan
 💵 Reciben 500 CUP de Saldo + 🌐 Internet Ilimitado las 24 h x 10 días
 *$22.99*
 ---
-3. *Standard*
+3. *Plan Standard*
 🌐 9GB + 📞 75MIN + 💬 80SMS x 35 días
 *$22.99*
 ---
