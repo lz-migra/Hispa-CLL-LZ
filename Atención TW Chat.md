@@ -199,3 +199,15 @@ Recuerde que esta recarga no cuenta con saldo principal, por lo que para consult
 ```
 Si pasadas las 24 horas aún no se visualiza la recarga, le pedimos que nos envíe una captura de pantalla de la consulta realizada, para poder gestionar su rearga y que esta se entregue lo antes posible.
 ```
+
+Para poder verificar la titularidad de su cuenta, necesitamos que nos indique lo siguiente, principalmente porque el número registrado es diferente al numero del que se esta comunicando:
+
+⠀
+
+- Número de teléfono asociado a la cuenta de Cuballama
+- Últimas llamadas, pagos o recargas realizadas
+- Nombre de al menos dos contactos a quienes haya enviado
+- Últimos cuatro dígitos de la tarjeta con la que realizó pagos recientes
+  
+  
+  Necesitamos, por favor, que nos responda al menos dos de estas preguntas para continuar con la gestión.
