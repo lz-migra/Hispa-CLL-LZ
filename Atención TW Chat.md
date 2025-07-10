@@ -186,17 +186,16 @@ Necesitamos que nos envíe lo siguiente, por favor:
 👉🏼 - Fecha de la transacción y monto pagado.
 ```
 
+Recarga no reflejada.
 ```
 En nuestro sistema, la recarga para este número aparece como entregada.
 ```
 ```
 algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
 ```
-
+```
 Recuerde que esta recarga no cuenta con saldo principal, por lo que para consultarla debe marcar *222*266# y verificar el bono asignado.
-
-Lorenzo Navarro
-
-07:50 p. m.
-
-Si pasadas las 24 horas aún no se visualiza la recarga, le pedimos que nos envíe una captura de pantalla de la consulta realizada, para poder comenzar con el proceso de reclamo y gestionar que esta se entregue lo antes posible.
+```
+```
+Si pasadas las 24 horas aún no se visualiza la recarga, le pedimos que nos envíe una captura de pantalla de la consulta realizada, para poder gestionar su rearga y que esta se entregue lo antes posible.
+```
