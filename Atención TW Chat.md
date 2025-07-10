@@ -19,7 +19,7 @@ Separador Unicode (U+2800).
 ---
 <font color="#ffff00">Requerimiento</font>
 ```
-Cliente, hemos notado que se había comunicado anteriormente. Permítanos un momento para validar su requerimiento y darle el debido seguimiento.
+Hemos notado que se había comunicado anteriormente. Permítanos un momento para validar su requerimiento y darle el debido seguimiento.
 ```
 ```
 Verificamos que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que podamos asistirle?
@@ -29,6 +29,7 @@ Verificamos que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que 
 ```
 ¿Me puede compartir si es tan amable el correo electrónico asociado a su cuenta Cuballama? por favor.
 ```
+
 ```
 Necesitamos validar. ¿Podría compartirnos, por favor, el correo electrónico asociado a su cuenta de Cuballama?
 ```
@@ -148,61 +149,8 @@ Para brindarle una mejor atención a su solicitud, es necesario transferirlo al 
  ⠀
 Un representante de dicho departamento se comunicará con usted a la brevedad para ofrecerle una respuesta detallada.
 ```
-### Lista de Recargas
+Speech Paquetería
 
-```
- ⠀
-1. *Plan 80 MIN*  
-📞 Reciben 80 minutos nacionales × 35 días  
-*$5.99*
- ⠀---
-2. *Recarga 500 CUP + Internet × 10 días*  
-💵 Reciben el lunes 7 de julio 500 CUP de saldo + 🌐 Internet ilimitado las 24 h × 10 días  
-*$22.99*
- ⠀---
-3. *Standard*  
-🌐 9GB + 📞 75 MIN + 💬 80 SMS × 35 días  
-*$22.99*
- ⠀---
-4. *Recarga 900 CUP + Internet × 30 días*  
-💵 Reciben el lunes 7 de julio 900 CUP de saldo + 🌐 Internet ilimitado las 24 h × 30 días  
-*$39.99*
- ⠀---
-5. *Recarga 250 CUP + 40 MIN*  
-💵 Reciben 250 CUP y 📞 40 minutos nacionales × 35 días  
-*$13.99*
- ⠀---
-6. *Recarga 250 CUP*  
-💵 Tu contacto recibe 250 CUP  
-*$11.99*
- ⠀---
-7. *Plan 3 GB + 40 MIN*  
-🌐 3 GB + 📞 40 minutos nacionales × 35 días  
-*$13.99*
- ⠀---
-8. *Recarga 360 CUP*  
-💵 Tu contacto recibe 360 CUP  
-*$16.50*
- ⠀---
-9. *El Fuerte*  
-🌐 14GB + 📞 115MIN + 💬 120SMS × 35 días  
-*$33.99*
- ⠀---
-10. *Recarga 750 CUP + Internet × 20 días*  
-💵 Reciben el lunes 7 de julio 750 CUP de saldo + 🌐 Internet ilimitado las 24 h × 20 días  
-*$33.99*
- ⠀---
-11. *Cacique*  
-🌐 20GB + 📞 165MIN + 💬 160SMS × 35 días  
-*$44.49*
- ⠀---
-12. *Lo Más Grande*  
-🌐 29GB + 📞 240MIN + 💬 240SMS × 35 días  
-*$64.99*
- ⠀
-```
-
-Speech Paquetería 
 ```
 📦 Para envíos de misceláneas por vía aérea trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 14 lb en adelante.
  ⠀⁣
@@ -236,19 +184,14 @@ Necesitamos que nos envíe lo siguiente, por favor:
 👉🏼 - Las últimas 2 o 3 transacciones realizadas.
 
 👉🏼 - Fecha de la transacción y monto pagado.
+```
 
-
+```
 En nuestro sistema, la recarga para este número aparece como entregada.
-
-Lorenzo Navarro
-
-07:50 p. m.
-
-En algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
-
-Lorenzo Navarro
-
-07:50 p. m.
+```
+```
+algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
+```
 
 Recuerde que esta recarga no cuenta con saldo principal, por lo que para consultarla debe marcar *222*266# y verificar el bono asignado.
 
