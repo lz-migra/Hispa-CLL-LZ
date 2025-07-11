@@ -210,3 +210,9 @@ Para poder verificar la titularidad de su cuenta, necesitamos que nos indique lo
 ⠀
 Necesitamos, por favor, que nos responda al menos dos de estas preguntas para continuar con la gestión.
 ```
+
+Para realizar su compra por tienda externa, el proceso es igual para las tres tiendas. Puede acceder a nuestra aplicación en la sección de *Envíos*, donde encontrará *Sus tiendas favoritas*, que incluyen Amazon, Shein y Walmart 🛍️
+⠀
+Una vez acceda a la tienda, solo debe agregar los artículos al carrito de compras. Cuando tenga todos los productos, diríjase al carrito, donde aparecerá un botón azul que dice *Continuar*. Al seleccionarlo, el sistema le pedirá la dirección del destinatario y su dirección de facturación 📝
+⠀
+Solo debe completar el formulario. El sistema le indicará cuántas libras debe pagar por el envío, y ese monto se sumará al paquete 📦
