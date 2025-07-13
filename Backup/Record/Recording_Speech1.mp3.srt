@@ -1,0 +1,23 @@
+1
+00:00:00,280 --> 00:00:00,920
+Buenas tardes.
+
+2
+00:00:01,040 --> 00:00:04,560
+Le llamamos de Cuballama para compartir
+con usted un beneficio especial.
+
+3
+00:00:04,960 --> 00:00:07,720
+Le invitamos a comunicarse con
+nosotros para brindarle más detalles.
+
+4
+00:00:08,240 --> 00:00:09,800
+Estamos seguros que le puede interesar.
+
+5
+00:00:10,160 --> 00:00:12,120
+Que tenga un excelente día.
+Hasta luego.
+
