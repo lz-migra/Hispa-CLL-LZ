@@ -160,7 +160,7 @@ Speech Paquetería
 - Desde 50 lb: $3.49 por libra  
 - Desde 70 lb: $3.29 por libra  
 - Paquete de 100 lb (máximo permitido): $2.99 por libra.
-
+ ⠀
 ✈️ Para Provincia:
 - Desde 14 lb: $4.79 por libra  
 - Desde 22 lb: $3.89 por libra  
