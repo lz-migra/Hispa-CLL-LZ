@@ -210,6 +210,8 @@ En nuestro sistema, la recarga para este número aparece como entregada.
 algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
 ```
 ```
+Es necesario que realice la consulta utilizando los números que le hemos indicado. Si, pasado el plazo de 24 horas, la recarga no se visualiza, deberá enviarnos las capturas de las consultas realizadas. Esto nos permitirá gestionar su recarga para que pueda ser entregada lo más pronto posible.
+
 Recuerde que esta recarga no cuenta con saldo principal, por lo que para consultarla debe marcar *222*266# y verificar el bono asignado.
 ```
 ```
