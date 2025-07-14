@@ -249,3 +249,21 @@ Solo debe completar el formulario. El sistema le indicará cuántas libras debe 
 - Desde 70 lb: $1.99 por libra
 - Paquete de 100 lb (máximo permitido): $1.89 por libra
 ```
+Por ser un cliente nuevo, usted podrá acceder al beneficio de nuestro *Welcome Pack*, un regalo especial de Cuballama 🎁
+ ⠀
+Con este beneficio se le otorgará el 100% de cashback en la primera compra que realice en algunos de nuestros servicios, hasta un máximo de *$100* en saldo Cuballama.
+ ⠀
+Los servicios que aplican son:
+- ✅ *Recarga Celular a Cuba o Internacional*:  
+https://www.cuballama.com/recargas-a-cuba/  
+- ✅ *Cuballama Viajes*  
+- ✅ *Cuballama Mercado* – Envío de alimentos crudos y cocinados, ferretería, electrodomésticos y medicamentos. En algunos casos, con entrega el mismo día.  
+https://www.cuballama.com/mercado/inicio  
+-✅ *Cuballama Envíos* – Servicio de paquetería con entregas a todas las provincias, directo al domicilio. Mientras más libras envíe, más económico el precio.  
+https://www.cuballama.com/envios/
+ ⠀
+📌 *Importante:*  
+- El beneficio se puede utilizar una única vez por servicio.  
+- Estará disponible por 30 días desde su registro.  
+- Solo podrá acumular hasta *$25* por cada uno de los servicios mencionados.  
+- Aplica únicamente si es cliente nuevo. Si detectamos que no lo es, el beneficio no aplicará.
