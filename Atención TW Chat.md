@@ -207,7 +207,7 @@ Recarga no reflejada.
 En nuestro sistema, la recarga para este número aparece como entregada.
 ```
 ```
-algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
+En algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
 ```
 ```
 Puede consultar la recarga marcando en Cuba:
