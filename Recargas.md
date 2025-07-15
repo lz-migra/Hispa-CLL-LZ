@@ -8,7 +8,7 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 ---
  ⠀
 2. *Recarga con el Combo 3*
-🌐 Reciben 20 GB todas las redes + 📞 165 MIN + ✉️ 160 SMS x 35 días + 500 CUP* (Solo si tienes bonos activos antes de hacer la recarga)
+🌐 Reciben 20 GB todas las redes + 📞 165 MIN + ✉️ 160 SMS x 35 días + 500 CUP* Solo si tienes bonos activos
 *$22.99*
  ⠀
 ---
