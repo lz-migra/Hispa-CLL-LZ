@@ -8,7 +8,7 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 ⠀  
 ---  
 ⠀  
-2. *Recarga 500 X3 + Internet*  
+2. *Recarga 500 X3 + Internet*  (Pre-Vemta)
 💵 Reciben el lunes 21 de julio 1500 CUP al Saldo Principal + 🌐 Internet Nocturno de 12 am a 7 am por 1 mes  
 *$22.99*  
 ⠀  
@@ -50,8 +50,8 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 ⠀  
 ---  
 ⠀  
-9. *Recarga 1000 X3 + Internet*  
-💵 Reciben el lunes 21 de julio 3000 CUP Saldo Principal + 🌐 Internet Nocturno de 12 am a 7 am por 1 mes  
+9. *Recarga 1000 X3 + Internet*  (Pre-Vemta)
+💵 Reciben el lunes 21 de julio 3000 CUP Saldo Principal + 🌐🌙 Internet Nocturno de 12 am a 7 am por 1 mes  
 *$45.98*  
 ⠀  
 ---  
