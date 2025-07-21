@@ -282,3 +282,15 @@ https://www.cuballama.com/envios/
 - Estará disponible por 30 días desde su registro.  
 - Solo podrá acumular hasta *$25* por cada uno de los servicios mencionados.  
 - Aplica únicamente si es cliente nuevo. Si detectamos que no lo es, el beneficio no aplicará.
+
+📦 Para sus envíos de duraderos por vía marítima trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 10 lb en adelante.
+
+🚢 Para La Habana:
+- Desde 10 lb: $2.09 por libra  
+- Desde 50 lb: $1.99 por libra  
+- Desde 100 lb o más: $1.89 por libra
+
+🚢 Para provincia:
+- Desde 10 lb: $2.19 por libra  
+- Desde 50 lb: $2.09 por libra  
+- Desde 100 lb o más: $1.99 por libra
