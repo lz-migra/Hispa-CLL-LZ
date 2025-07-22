@@ -162,14 +162,14 @@ Speech Paquetería
 📦 Para envíos de misceláneas por vía aérea trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 10 lb en adelante.
  ⠀⁣
 ✈️ Para La Habana:
-- Desde 14 lb: $3.99 por libra  
+- Desde 10 lb: $3.99 por libra  
 - Desde 22 lb: $3.79 por libra  
 - Desde 50 lb: $3.49 por libra  
 - Desde 70 lb: $3.29 por libra  
 - Paquete de 100 lb (máximo permitido): $2.99 por libra.
  ⠀
 ✈️ Para Provincia:
-- Desde 14 lb: $4.79 por libra  
+- Desde 10 lb: $4.79 por libra  
 - Desde 22 lb: $3.89 por libra  
 - Desde 50 lb: $3.69 por libra  
 - Desde 70 lb: $3.49 por libra  
@@ -180,14 +180,14 @@ Marítimos
 📦 Para sus envíos de misceláneas por vía marítima trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 10 lb en adelante.
  ⠀
 🚢 Para La Habana:
-- Desde 14 lb: $2.19 por libra
+- Desde 10 lb: $2.19 por libra
 - Desde 22 lb: $2.09 por libra
 - Desde 50 lb: $1.99 por libra
 - Desde 70 lb: $1.89 por libra
 - Paquete de 100 lb (máximo permitido): $1.79 por libra
  ⠀
 🚢 ⁣Para provincia:
-- Desde 14 lb: $2.29 por libra
+- Desde 10 lb: $2.29 por libra
 - Desde 22 lb: $2.19 por libra
 - Desde 50 lb: $2.09 por libra
 - Desde 70 lb: $1.99 por libra
@@ -251,14 +251,14 @@ Solo debe completar el formulario. El sistema le indicará cuántas libras debe 
 📦 Para sus envíos de misceláneas por vía marítima trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 10 lb en adelante.
 
 🚢 Para La Habana:
-- Desde 14 lb: $2.19 por libra
+- Desde 10 lb: $2.19 por libra
 - Desde 22 lb: $2.09 por libra
 - Desde 50 lb: $1.99 por libra
 - Desde 70 lb: $1.89 por libra
 - Paquete de 100 lb (máximo permitido): $1.79 por libra
 
 🚢 ⁣Para provincia:
-- Desde 14 lb: $2.29 por libra
+- Desde 10 lb: $2.29 por libra
 - Desde 22 lb: $2.19 por libra
 - Desde 50 lb: $2.09 por libra
 - Desde 70 lb: $1.99 por libra
