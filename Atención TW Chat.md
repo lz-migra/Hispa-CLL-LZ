@@ -294,3 +294,5 @@ https://www.cuballama.com/envios/
 - Desde 10 lb: $2.19 por libra  
 - Desde 50 lb: $2.09 por libra  
 - Desde 100 lb o más: $1.99 por libra
+  
+  
