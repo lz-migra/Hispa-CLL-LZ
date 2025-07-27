@@ -305,3 +305,16 @@ https://www.cuballama.com/envios/
 - Desde 10 lb: $4.59 por libra  
 - Desde 70 lb o más: $4.49 por libra
 
+El motivo de nuestro contacto es agradecerle su registro y darle la más cordial bienvenida a nuestra empresa. Nos alegra que nos haya elegido para formar parte de nuestra familia. 🎉
+
+Para celebrar su incorporación, hemos preparado un *Welcome Pack* exclusivo. Como muestra de nuestro agradecimiento, recibirá un *Cashback* de $25 por cada servicio, con la posibilidad de acumular hasta un máximo de $100. Además, con su primera compra en cualquiera de nuestras cuatro líneas de negocio, le obsequiamos 3 minutos Plus. 🎁
+
+Los servicios que aplican para el *Cashback* son:
+
+📱 **Recargas**: Recargas celulares a Cuba o el mundo y Recargas Nauta.  
+🛒 **Mercado**: Todos los servicios, excepto pagos en Cuba.  
+📦 **Envíos**: Aplica en todos los servicios.  
+✈️ **Viajes**: Vuelos comerciales, vuelos chárter, hoteles, paquetes, renta de autos, actividades y traslados.
+
+📌 Para viajes, el *Cashback* aplica en la primera compra, sin importar el método de pago, incluyendo el Saldo Cuballama.  
+📌 En el resto de los servicios, aplica en la primera compra por servicio (máximo de $25), siempre que el método de pago **no sea** el Saldo Cuballama.
