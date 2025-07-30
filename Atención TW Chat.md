@@ -264,6 +264,8 @@ Solo debe completar el formulario. El sistema le indicará cuántas libras debe 
 - Desde 70 lb: $1.99 por libra
 - Paquete de 100 lb (máximo permitido): $1.89 por libra
 ```
+
+```
 Por ser un cliente nuevo, usted podrá acceder al beneficio de nuestro *Welcome Pack*, un regalo especial de Cuballama 🎁
  ⠀
 Con este beneficio se le otorgará el 100% de cashback en la primera compra que realice en algunos de nuestros servicios, hasta un máximo de *$100* en saldo Cuballama.
@@ -282,6 +284,9 @@ https://www.cuballama.com/envios/
 - Estará disponible por 30 días desde su registro.  
 - Solo podrá acumular hasta *$25* por cada uno de los servicios mencionados.  
 - Aplica únicamente si es cliente nuevo. Si detectamos que no lo es, el beneficio no aplicará.
+- Sólo se generará cashback siempre y cuando pague con tarjeta, si paga con el cashback ya acumulado no aplicará para seguir acumulando.
+```
+
 ```
 📦 Para sus envíos de duraderos por vía marítima trabajamos con AeroVaradero Express. Mientras mayor sea el peso, más económico será el costo por libra. Enviamos a partir de 10 lb en adelante.
 
