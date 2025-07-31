@@ -200,13 +200,13 @@ Necesitamos que nos envíe lo siguiente, por favor:
 ⠀
 📸 Una captura de pantalla de la app de su banco donde se visualice:
 
-👉🏼 - Descripción de la compra con el nombre de nuestra compañía: Cuballama, Recarga, Envíos y Mercado.
+- 👉🏼 Descripción de la compra con el nombre de nuestra compañía: Cuballama, Recarga, Envíos y Mercado.
 
-👉🏼 - Últimos 4 dígitos o máscara de la tarjeta utilizada.
+- 👉🏼 Últimos 4 dígitos o máscara de la tarjeta utilizada.
 
-👉🏼 - Las últimas 2 o 3 transacciones realizadas.
+- 👉🏼 Las últimas 2 o 3 transacciones realizadas.
 
-👉🏼 - Fecha de la transacción y monto pagado.
+👉🏼 Fecha de la transacción y monto pagado.
 ```
 ---
 Recarga no reflejada.
