@@ -206,7 +206,7 @@ Necesitamos que nos envíe lo siguiente, por favor:
 
 - 👉🏼 Las últimas 2 o 3 transacciones realizadas.
 
-👉🏼 Fecha de la transacción y monto pagado.
+- 👉🏼 Fecha de la transacción y monto pagado.
 ```
 ---
 Recarga no reflejada.
