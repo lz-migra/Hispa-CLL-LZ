@@ -208,6 +208,8 @@ Necesitamos que nos envíe lo siguiente, por favor:
 
 - 👉🏼 Fecha de la transacción y monto pagado.
 ```
+# ❌ ✅
+
 ---
 Recarga no reflejada.
 ```
