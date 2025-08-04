@@ -64,3 +64,16 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 *$64.99*  
 ⠀
 ```
+
+Extracción oferta
+```
+// 📦 Extrae nombre, descripción y precio de cada oferta
+const ofertas = Array.from(document.querySelectorAll('[role="button"]')).map(el => {
+  const nombre = el.querySelector('p:nth-of-type(1)')?.innerText.trim();
+  const descripcion = el.querySelector('p:nth-of-type(2)')?.innerText.trim();
+  const precio = el.querySelector('div.MuiBox-root')?.innerText.trim();
+  return { nombre, descripcion, precio };
+});
+
+console.log("📋 Ofertas encontradas:", ofertas);
+```
