@@ -219,6 +219,8 @@ En nuestro sistema, la recarga para este número aparece como entregada.
 En algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
 ```
 ```
+```
+```
 📲 Consulta de recargas y planes en Cuba
 
 Para verificar el estado de su recarga o plan, puede utilizar los siguientes códigos desde Cuba:
@@ -233,6 +235,8 @@ Para verificar el estado de su recarga o plan, puede utilizar los siguientes có
 🔎 Es importante que realice estas consultas utilizando los códigos correspondientes. 
 Si después de 24 horas la recarga o el plan no se refleja, por favor envíenos las capturas de las consultas realizadas. 
 Esto nos permitirá gestionar su caso y brindarle una solución lo más pronto posible.
+```
+```
 ```
 ```
 Si pasadas las 24 horas aún no se visualiza la recarga, le pedimos que nos envíe una captura de pantalla de la consulta realizada, para poder gestionar su rearga y que esta se entregue lo antes posible.
