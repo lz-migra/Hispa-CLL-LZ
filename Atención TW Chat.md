@@ -325,3 +325,13 @@ Los servicios que aplican para el *Cashback* son:
 
 📌 Para viajes, el *Cashback* aplica en la primera compra, sin importar el método de pago, incluyendo el Saldo Cuballama.  
 📌 En el resto de los servicios, aplica en la primera compra por servicio (máximo de $25), siempre que el método de pago **no sea** el Saldo Cuballama.
+```
+
+Amazon Chane, Walmart.
+```
+
+Usted puede hacer uso de tiendas externas como Amazon, Shein o Walmart a través de nuestro servicio "Sus tiendas favoritas". Simplemente ingrese a nuestra aplicación, y en la sección de envíos verá las tres tiendas disponibles.
+
+El proceso es el mismo para todas: seleccione el artículo que desea, agréguelos al carrito de compras y, una vez listo, diríjase al carrito. Allí verá un botón azul que dice "Continuar". Al presionarlo, el carrito se extraerá a la aplicación y se le indicará el monto a pagar por el envío.
+
+Solo se le solicitará la información del destinatario en Cuba y su información como remitente. 🛒📦
