@@ -344,3 +344,11 @@ Usted puede hacer uso de tiendas externas como Amazon, Shein o Walmart a través
 El proceso es el mismo para todas: seleccione el artículo que desea, agréguelos al carrito de compras y, una vez listo, diríjase al carrito. Allí verá un botón azul que dice "Continuar". Al presionarlo, el carrito se extraerá a la aplicación y se le indicará el monto a pagar por el envío.
 
 Solo se le solicitará la información del destinatario en Cuba y su información como remitente. 🛒📦
+
+
+Permítanos un momento, por favor. Estamos validando la trazabilidad del pago. Para validar qué ha ocurrido.
+
+
+Le informamos que hemos validado y, efectivamente, el pago presentó un inconveniente en su momento. Cuando se realizó, quedó en estado pendiente y las plataformas no lograron consolidarlo, por lo que fue devuelto. Posteriormente, la plataforma de pagos corrigió el error y el día de hoy apareció el descuento.  
+ ⠀
+Le pedimos su comprensión, sabemos que la situación es incómoda. Si es posible, valide con su banco la fecha en la que se realizó inicialmente; su banco le confirmará que el cobro nunca se completó.
