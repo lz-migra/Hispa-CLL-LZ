@@ -57,9 +57,10 @@
 > Tienda de Las Vegas, Nevada
 > 3035 E Tropicana Ave Suite C
 > Las Vegas, NV 89121
+> Lunes a Domingos: 10:00 am a 08:00 pm.
 > 
 > ---
-> Cost Traslado= **$1.80/lbs**
+> Cost Traslado= **$1lbs**
 
 > [!NOTE]
 > ### <font color="#e36c09">La tienda de **Kentucky** hará sus envíos todos los lunes y llegará al Almacén de Miami los días viernes</font>
