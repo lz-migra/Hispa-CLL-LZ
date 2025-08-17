@@ -211,7 +211,7 @@ Necesitamos que nos envíe lo siguiente, por favor:
 # ❌ ✅
 
 ---
-Recarga no reflejada.
+# Recarga no reflejada.
 ```
 En nuestro sistema, la recarga para este número aparece como entregada.
 ```
@@ -352,3 +352,5 @@ Permítanos un momento, por favor. Estamos validando la trazabilidad del pago. P
 Le informamos que hemos validado y, efectivamente, el pago presentó un inconveniente en su momento. Cuando se realizó, quedó en estado pendiente y las plataformas no lograron consolidarlo, por lo que fue devuelto. Posteriormente, la plataforma de pagos corrigió el error y el día de hoy apareció el descuento.  
  ⠀
 Le pedimos su comprensión, sabemos que la situación es incómoda. Si es posible, valide con su banco la fecha en la que se realizó inicialmente; su banco le confirmará que el cobro nunca se completó.
+
+En cuanto al otro servicio, le informamos que nuestro proveedor lo ha suspendido ⛔. Queremos que sepa que seguimos trabajando para aumentar nuestra capacidad de ayuda en otros servicios, como por ejemplo mercado 🛒, recargas 💳, viajes ✈️ y envíos 📦.
