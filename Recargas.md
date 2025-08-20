@@ -11,8 +11,7 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 ---  
 ⠀
 2. *Recarga 500 CUP + Internet x 10 días*  
-💵 Reciben 500 CUP de Saldo  
-🌐 Internet Ilimitado las 24 h x 10 días  
+💵 Reciben 500 CUP de Saldo 🌐 Internet Ilimitado las 24 h x 10 días
 *$22.99*  
 ⠀
 ---  
