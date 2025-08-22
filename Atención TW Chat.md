@@ -225,16 +225,21 @@ En algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
 
 Para verificar el estado de su recarga o plan, puede utilizar los siguientes códigos desde Cuba:
 
-- Saldo principal: *222#  
-- Planes combinados Cubacel y bonos promocionales: *222*266#  
-- Plan 80 MIN: *222*869#  
-- Plan 3 GB + 40 MIN: *222*328# (GB) y *222*869# (MIN)  
-- Plan 250 CUP + 40 MIN: *222# (saldo) y *222*869# (MIN)  
-- Promo Saldo X 3 + Internet Nocturno: *222# (saldo) y *222*266# (Internet)
+- Saldo principal: *222#
+    
+- Planes combinados Cubacel y bonos promocionales: _222_266#
+    
+- Plan 80 MIN: _222_869#
+    
+- Plan 3 GB + 40 MIN: _222_328# (GB) y _222_869# (MIN)
+    
+- Plan 250 CUP + 40 MIN: *222# (saldo) y _222_869# (MIN)
+    
+- Promo Saldo + Internet Nocturno: *222# (saldo) y _222_266# (Internet)
+    
 
-🔎 Es importante que realice estas consultas utilizando los códigos correspondientes. 
-Si después de 24 horas la recarga o el plan no se refleja, por favor envíenos las capturas de las consultas realizadas. 
-Esto nos permitirá gestionar su caso y brindarle una solución lo más pronto posible.
+🔎 Es importante que realice estas consultas utilizando los códigos correspondientes.  
+Si después de 24 horas la recarga o el plan no se refleja, por favor contáctenos para que podamos gestionar su caso y brindarle una solución lo más pronto posible.
 ```
 ```
 ```
