@@ -374,4 +374,24 @@ Es probable que este último aparezca como un cobro en proceso, ya que se trata 
 
 Necesitamos que nos indique exactamente el valor descontado.
 
-El monto de verificación corresponde a centavos y puede variar entre 0,01 y 0,99
+El monto de verificación corresponde a centavos y puede variar entre 0,01 y 0,99.
+
+
+
+
+
+
+Le informamos que efectivamente tenemos pendiente una verificación de su método de pago.
+
+Esto lo solicita nuestro sistema debido a que realizó una remesa por un valor considerable.
+
+Necesitamos que nos envíe lo siguiente, por favor:
+
+📸 Una captura de pantalla de la aplicación de su banco donde se visualice:
+⠀
+- 👉🏼 Descripción de la compra con el nombre de nuestra compañía: Cuballama, Recarga, Envíos y Mercado.
+- 👉🏼 Últimos 4 dígitos o máscara de la tarjeta utilizada.
+- 👉🏼 Las últimas 2 o 3 transacciones realizadas.
+- 👉🏼 Fecha de la transacción y monto pagado.
+
+Por lo general, basta con una imagen del historial donde aparezca la compra realizada con nosotros para poder validar.
