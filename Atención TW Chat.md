@@ -357,3 +357,21 @@ Le informamos que hemos validado y, efectivamente, el pago presentó un inconven
 Le pedimos su comprensión, sabemos que la situación es incómoda. Si es posible, valide con su banco la fecha en la que se realizó inicialmente; su banco le confirmará que el cobro nunca se completó.
 
 En cuanto al otro servicio, le informamos que nuestro proveedor lo ha suspendido ⛔. Queremos que sepa que seguimos trabajando para aumentar nuestra capacidad de ayuda en otros servicios, como por ejemplo mercado 🛒, recargas 💳, viajes ✈️ y envíos 📦.
+
+
+
+
+Le informamos que su cuenta se encuentra deshabilitada en este momento debido a que nuestro sistema solicita una verificación adicional del método de pago.
+
+Esta medida es únicamente de seguridad y tiene como propósito protegerlo a usted.
+
+Por favor, ingrese a su cuenta bancaria, donde debería visualizar:
+
+- El monto de la compra original realizada.
+- Un monto adicional mucho más pequeño, correspondiente a unos centavos.
+
+Es probable que este último aparezca como un cobro en proceso, ya que se trata solo de una verificación y no de un cobro real.
+
+Necesitamos que nos indique exactamente el valor descontado.
+
+El monto de verificación corresponde a centavos y puede variar entre 0,01 y 0,99
