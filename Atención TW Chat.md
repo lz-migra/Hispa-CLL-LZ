@@ -222,14 +222,17 @@ En algunas ocasiones, la recarga puede demorar hasta 24 horas en entregarse.
 ```
 ```
 📲 Consulta de recargas y planes en Cuba
-
+⠀
 Para verificar el estado de su recarga o plan, puede utilizar los siguientes códigos desde Cuba:
-
+⠀
 - Saldo principal: *222#  
 - Planes combinados Cubacel y bonos promocionales: *222*266#  
-
-🔎 Es importante que realice estas consultas utilizando los códigos correspondientes. Ya en en ocaciones Cubacel puede no notificar la llegada de la recarga.
+⠀
+🔎 Es importante que realice estas consultas utilizando los códigos correspondientes. Ya que en ocaciones Cubacel puede no notificar la llegada de la recarga.
+⠀
 Si después de 24 horas la recarga o el plan no se refleja, por favor contáctenos para que podamos gestionar su caso y brindarle una solución lo más pronto posible.
+⠀
+Lamentamos mucho La demora en las entregas, sin embargo, estas no dependen de nosotros. Sino de Cubacel que es la empresa que gestiona todas las recargas y redes en cuba.
 
 ```
 ```
