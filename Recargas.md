@@ -197,7 +197,22 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 
 
 # Extracción oferta
-```
+
+¡Claro que sí! 😎🔥  
+Podemos hacer que el script **inyecte emojis según el tipo de beneficio detectado** en la descripción o el nombre. Por ejemplo:
+
+- Si encuentra **GB / Internet → 🌐**
+    
+- Si encuentra **MIN / minutos → 📞**
+    
+- Si encuentra **SMS → ✉️**
+    
+- Si encuentra **CUP / saldo → 💵**
+    
+
+Aquí te dejo el script mejorado con lógica de emojis:
+
+```javascript
 // 📦 Extrae nombre, descripción y precio de cada oferta
 const ofertas = Array.from(document.querySelectorAll('[role="button"]')).map(el => {
   const nombre = el.querySelector('p:nth-of-type(1)')?.innerText.trim();
@@ -206,4 +221,37 @@ const ofertas = Array.from(document.querySelectorAll('[role="button"]')).map(el 
   return { nombre, descripcion, precio };
 });
 
-console.log("📋 Ofertas encontradas:", ofertas);
+// 🎨 Función para añadir emojis automáticamente
+function aplicarEmojis(texto) {
+  return texto
+    .replace(/(\d+ ?GB)/gi, "🌐 $1")
+    .replace(/(\d+ ?MIN|\bminutos?\b)/gi, "📞 $1")
+    .replace(/(\d+ ?SMS)/gi, "✉️ $1")
+    .replace(/(\d+ ?CUP|saldo)/gi, "💵 $1")
+    .replace(/(Ilimitado|ilimitada)/gi, "⚡ $1");
+}
+
+// 🛠️ Formatea las ofertas al estilo catálogo con emojis
+function formatearOfertas(ofertas) {
+  let salida = "📱 PLANES Y RECARGAS DISPONIBLES 📱\n\n";
+
+  ofertas.forEach((oferta, i) => {
+    salida += `${i + 1}. *${oferta.nombre}*\n`;
+    salida += `${aplicarEmojis(oferta.descripcion)}\n`;
+    salida += `*${oferta.precio}*\n\n`;
+    if (i < ofertas.length - 1) {
+      salida += "---\n\n"; // separador entre ofertas
+    }
+  });
+
+  return salida;
+}
+
+// 🚀 Genera el catálogo en texto plano con emojis
+const catalogo = formatearOfertas(ofertas);
+
+// 📋 Muestra el resultado en consola listo para copiar
+console.log(catalogo);
+```
+
+Con esto tu catálogo se arma automáticamente y cada línea detecta palabras clave para añadir el emoji correcto.
