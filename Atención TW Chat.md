@@ -31,7 +31,7 @@ Verificamos que su requerimiento ya ha sido atendido. ¿Hay algo más en lo que 
 ```
 
 ```
-Comprendemos la situación, necesitamos validar. ¿Podría compartirnos, por favor, la dirección correo electrónico asociado a su cuenta de Cuballama?
+Comprendemos la situación, necesitamos validar. ¿Podría compartirnos, por favor, su nombre y la dirección correo electrónico asociado a su cuenta de Cuballama?
 ```
 ---
 <font color="#ffff00">PIN</font>
