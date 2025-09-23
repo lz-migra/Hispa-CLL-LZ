@@ -269,3 +269,5 @@ console.log(catalogo);
 ```
 
 Con esto tu catálogo se arma automáticamente y cada línea detecta palabras clave para añadir el emoji correcto.
+
+https://api.cuballama.com/catalog/offers/cll/TOPUP?operator=CUBACEL&countryCode=CUB&currency=CAD
