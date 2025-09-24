@@ -3,70 +3,69 @@ Aquí tienes la lista actualizada con los datos de las nuevas imágenes, respeta
 # USD
 ```
 📱 PLANES Y RECARGAS DISPONIBLES 📱
-
 1. *Plan 80 MIN*
 Reciben 📞 80 minutos nacionales x 35 días
-*$ 5.99*
+*5.99 USD*
 
 ---
 
 2. *Recarga 600 X5 + Internet*
-Reciben 💵 3000 CUP 💵 Saldo + Internet Nocturno de 12 am a 7 am por 30 días
-*$ 25.99*
+Reciben 💵 3000 CUP Saldo + Internet Nocturno de 12 am a 7 am por 30 días
+*25.99 USD*
 
 ---
 
 3. *Recarga 500 CUP + Internet x 10 días*
-Reciben 💵 500 CUP de 💵 Saldo + Internet ⚡ Ilimitado las 24 h x 10 días
-*$ 22.99*
+Reciben 💵 500 CUP de Saldo + Internet ⚡ Ilimitado las 24 h x 10 días
+*22.99 USD*
 
 ---
 
 4. *Standard*
 Reciben 🌐 9GB + 📞 75MIN + ✉️ 80SMS x 35 días
-*$ 22.99*
+*22.99 USD*
 
 ---
 
 5. *Recarga 250 CUP*
 Tu contacto recibe 💵 250 CUP.
-*$ 11.99*
+*11.99 USD*
 
 ---
 
 6. *Recarga 250 CUP + 40 MIN*
 Reciben 💵 250 CUP y 📞 40 minutos nacionales x 35 días
-*$ 13.99*
+*13.99 USD*
 
 ---
 
 7. *Plan 3 GB + 40 MIN*
 Reciben 🌐 3 GB y 📞 40 minutos nacionales x 35 días
-*$ 13.99*
+*13.99 USD*
 
 ---
 
 8. *Recarga 360 CUP*
 Tu contacto recibe 💵 360 CUP.
-*$ 16.50*
+*16.5 USD*
 
 ---
 
 9. *El Fuerte*
 Reciben 🌐 14GB + 📞 115MIN + ✉️ 120SMS x 35 días
-*$ 33.99*
+*33.99 USD*
 
 ---
 
 10. *Cacique*
 Reciben 🌐 20GB + 📞 165MIN + ✉️ 160SMS x 35 días
-*$ 44.49*
+*44.49 USD*
 
 ---
 
 11. *Lo Más Grande*
 Reciben 🌐 29GB + 📞 240MIN + ✉️ 240SMS x 35 días
-*$ 64.99*
+*64.99 USD*
 
 ```
 # EUR
