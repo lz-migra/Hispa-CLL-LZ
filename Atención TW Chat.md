@@ -355,7 +355,7 @@ Le informamos que hemos validado y, efectivamente, el pago presentó un inconven
  ⠀
 Le pedimos su comprensión, sabemos que la situación es incómoda. Si es posible, valide con su banco la fecha en la que se realizó inicialmente; su banco le confirmará que el cobro nunca se completó.
 
-En cuanto al otro servicio, le informamos que nuestro proveedor lo ha suspendido ⛔. Queremos que sepa que seguimos trabajando para aumentar nuestra capacidad de ayuda en otros servicios, como por ejemplo mercado 🛒, recargas 💳, viajes ✈️ y envíos 📦.
+Le informamos que nuestro proveedor ha suspendido el servicio ⛔. Queremos que sepa que seguimos trabajando para aumentar nuestra capacidad de ayuda en otros servicios, como por ejemplo mercado 🛒, recargas 💳, viajes ✈️ y envíos 📦.
 
 
 
