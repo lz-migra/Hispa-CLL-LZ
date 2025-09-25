@@ -279,10 +279,10 @@ Aquí te dejo el script mejorado con lógica de emojis:
   function addEmojis(text) {
     if (!text) return "";
     return String(text)
-      .replace(/(\d+\s*GB)/gi, '🌐 $1')
+      .replace(/(\d+\s*GB|\bInternet\b)/gi, '🌐 $1')
       .replace(/(\d+\s*MIN|\bminutos?\b)/gi, '📞 $1')
       .replace(/(\d+\s*SMS)/gi, '✉️ $1')
-      .replace(/(\d+\s*(?:CUP|USD|EUR))/gi, '💵 $1')
+      .replace(/(\d+\s*(?:CUP|saldo))/gi, '💵 $1')
       .replace(/\b(Ilimitado|ilimitada|Ilimitados|ilimitados)\b/gi, '⚡ $1');
   }
 
