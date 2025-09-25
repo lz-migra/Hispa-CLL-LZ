@@ -228,7 +228,7 @@ Aquí te dejo el script mejorado con lógica de emojis:
 ```javascript
 // == Cuballama Catalog Fetcher ==
 // Este script obtiene el catálogo de ofertas de Cuballama, lo formatea
-// y lo muestra en un panel flotante en la página. Es inmune a Darkreader.
+// y lo muestra en un panel flotante en la página.
 // Para usar: Pega este código en la consola de desarrollador del navegador.
 // -----------------------------------------------------------------------------
 
